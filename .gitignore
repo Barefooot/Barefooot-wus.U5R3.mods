@@ -1,0 +1,34 @@
+/.dev/.mods.all.properties/*
+/.dev/.mods.latest/*
+/.dev/.tools/map.WGenerator/maps/britannia22/*
+/.dev/.tools/map.WGenerator/maps/oldGV-u.zip
+/.dev/.tools/SQLiteStudio/*
+/Adventure-T/*
+/Creative-T/*
+/dist/Adventure/*
+/dist/Creative/*
+/dist/*
+/.dev/WUS.pvp - Shortcut.lnk
+/.dev/.tools/map.Flower Spawner/Main File-11-1-0-1601148655/*
+/common.jar
+/entities.xml
+/installscript.vdf
+/javassist.jar
+/lib/SteamServerJni.jar
+/modlauncher.jar
+/runtime/*
+/patcher.bat
+/patcher.jar
+/patcher.sh
+/server.jar
+/nativelibs/SteamServerJni.dll
+/steam_api64.dll
+/steam_appid.txt
+/steamclient.dll
+/steamclient64.dll
+/tier0_s.dll
+/tier0_s64.dll
+/vstdlib_s.dll
+/vstdlib_s64.dll
+/WurmServerLauncher-patched.exe
+/WurmServerLauncher.exe
