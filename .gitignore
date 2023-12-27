@@ -32,3 +32,5 @@
 /vstdlib_s64.dll
 /WurmServerLauncher-patched.exe
 /WurmServerLauncher.exe
+/server.log
+/mods/logs/StarterGear.log.*
