@@ -1,0 +1,1872 @@
+From: <Saved by Blink>
+Snapshot-Content-Location: https://wiki.wurm-unlimited.net/page/Awakening_Server_Mod
+Subject: Awakening Server Mod - Wurm Unlimited
+Date: Wed, 27 Dec 2023 12:01:22 +0200
+MIME-Version: 1.0
+Content-Type: multipart/related;
+	type="text/html";
+	boundary="----MultipartBoundary--6iFc7K0vUw1XyDhdN7li2jYdRDcOcaQjWbCgzrk99x----"
+
+
+------MultipartBoundary--6iFc7K0vUw1XyDhdN7li2jYdRDcOcaQjWbCgzrk99x----
+Content-Type: text/html
+Content-ID: <frame-5459FB0C9FD94455A178666559EDD7AA@mhtml.blink>
+Content-Transfer-Encoding: quoted-printable
+Content-Location: https://wiki.wurm-unlimited.net/page/Awakening_Server_Mod
+
+<!DOCTYPE html><html class=3D"client-js" lang=3D"en" dir=3D"ltr"><head><met=
+a http-equiv=3D"Content-Type" content=3D"text/html; charset=3DUTF-8"><link =
+rel=3D"stylesheet" type=3D"text/css" href=3D"cid:css-f43773e4-deb4-43e6-bae=
+e-70195678e55e@mhtml.blink" /><link rel=3D"stylesheet" type=3D"text/css" hr=
+ef=3D"cid:css-2d65bf24-3706-456a-aa61-92e68eeb2a79@mhtml.blink" />
+
+<title>Awakening Server Mod - Wurm Unlimited</title>
+
+
+<link rel=3D"stylesheet" href=3D"https://wiki.wurm-unlimited.net/w/load.php=
+?lang=3Den&amp;modules=3Dext.3d.styles%7Cmediawiki.legacy.commonPrint%2Csha=
+red%7Cmediawiki.skinning.interface%7Cskins.vector.styles&amp;only=3Dstyles&=
+amp;skin=3Dvector">
+
+<meta name=3D"generator" content=3D"MediaWiki 1.34.2">
+<link rel=3D"shortcut icon" href=3D"https://wiki.wurm-unlimited.net/favicon=
+.ico">
+<link rel=3D"search" type=3D"application/opensearchdescription+xml" href=3D=
+"https://wiki.wurm-unlimited.net/w/opensearch_desc.php" title=3D"Wurm Unlim=
+ited (en)">
+<link rel=3D"EditURI" type=3D"application/rsd+xml" href=3D"https://wiki.wur=
+m-unlimited.net/w/api.php?action=3Drsd">
+<link rel=3D"license" href=3D"https://creativecommons.org/licenses/by/4.0/"=
+>
+<link rel=3D"alternate" type=3D"application/atom+xml" title=3D"Wurm Unlimit=
+ed Atom feed" href=3D"https://wiki.wurm-unlimited.net/w/index.php?title=3DS=
+pecial:RecentChanges&amp;feed=3Datom">
+<!--[if lt IE 9]><script src=3D"/w/resources/lib/html5shiv/html5shiv.js"></=
+script><![endif]-->
+</head>
+<body class=3D"mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject =
+page-Awakening_Server_Mod rootpage-Awakening_Server_Mod skin-vector action-=
+view">
+<div id=3D"mw-page-base" class=3D"noprint"></div>
+<div id=3D"mw-head-base" class=3D"noprint"></div>
+<div id=3D"content" class=3D"mw-body" role=3D"main">
+	<a id=3D"top"></a>
+=09
+	<div class=3D"mw-indicators mw-body-content">
+</div>
+
+	<h1 id=3D"firstHeading" class=3D"firstHeading" lang=3D"en">Awakening Serve=
+r Mod</h1>
+=09
+	<div id=3D"bodyContent" class=3D"mw-body-content">
+		<div id=3D"siteSub" class=3D"noprint">From Wurm Unlimited</div>
+		<div id=3D"contentSub"></div>
+	=09
+	=09
+	=09
+		<div id=3D"jump-to-nav"></div>
+		<a class=3D"mw-jump-link" href=3D"https://wiki.wurm-unlimited.net/page/Aw=
+akening_Server_Mod#mw-head">Jump to navigation</a>
+		<a class=3D"mw-jump-link" href=3D"https://wiki.wurm-unlimited.net/page/Aw=
+akening_Server_Mod#p-search">Jump to search</a>
+		<div id=3D"mw-content-text" lang=3D"en" dir=3D"ltr" class=3D"mw-content-l=
+tr"><div class=3D"mw-parser-output"><p>Release of the public Awakening Serv=
+er mod, which is an extract of the original mod on the Awakening server. Se=
+lected parts have been compiled into this package, while code bound to serv=
+er specific lore and standards has been left out. The main functionality in=
+ this mod consists of:
+</p>
+<ol><li>A number of custom GM/CM commands as well as player commands.</li>
+<li>Leaderboards for skills and overall top player based on top 10 skills.<=
+/li>
+<li>Custom trait functionality.</li>
+<li>Offspring names.</li>
+<li>Block dropping dirt on enemy deeds (PvP).</li>
+<li>Block oak and willows from spreading.</li>
+<li>Custom pet handling, pets normally don't attack hostile creatures, unle=
+ss given attack command.</li>
+<li>Use old (WO) skill gains for meditation skill.</li>
+<li>Block farm tiles on deed from growing unless tended.</li>
+<li>Custom player settings.</li>
+<li>Use old style meditation skill gains. Fix to make meditation work like =
+on Wurm Online.</li>
+<li>Block alts; only one alt can login at the same time, or alternatively -=
+ block cross-kingdom alts.</li>
+<li>Send server lag reports.</li>
+<li>Kingdoms may become allies (PvP).</li>
+<li>Anti macro handling.</li>
+<li>Decay on locks, when owner has abandoned server for a long time. Locks =
+rust and fall off and unplant.</li>
+<li>Unlocked vehicles can be claimed by embarking as driver, changes owner.=
+</li>
+<li>Plagues, it will lower creature population over time if max number of c=
+reatures have been lowered.</li>
+<li>Kingdom inventory supplier, adds trader items to listed merchants.</li>=
+</ol>
+<p>All features can be switched on/off in the awakening.properties file.
+</p><p>Forum thread: <a rel=3D"nofollow" class=3D"external free" href=3D"ht=
+tps://forum.wurm-unlimited.net/viewtopic.php?f=3D12&amp;t=3D10">https://for=
+um.wurm-unlimited.net/viewtopic.php?f=3D12&amp;t=3D10</a>
+</p><p>Download here: <a rel=3D"nofollow" class=3D"external free" href=3D"h=
+ttps://github.com/awakening-wurm/AwakeningServerMod/releases">https://githu=
+b.com/awakening-wurm/AwakeningServerMod/releases</a>
+</p>
+<h2><span class=3D"mw-headline" id=3D"Disclaimer">Disclaimer</span></h2>
+<p>Please note that this mod wasn't developed for public release, it was de=
+veloped for the Awakening server, and parts of that code has been packaged =
+into this mod. Therefore some features may seem strange or out of place bec=
+ause there are originally made for certain lore and ideals, so please keep =
+that in mind. Also, all possible combinations of properties have not been t=
+ested, some combinations may not work properly. If you notice any bugs, ple=
+ase report them by PM to Kenabil either on discord or the forum.
+</p>
+<h2><span class=3D"mw-headline" id=3D"Awakening_Properties">Awakening Prope=
+rties</span></h2>
+<p>The following properties are available for the properties file, values c=
+an be either hard or soft; <b>hard</b> means changes requires a server rest=
+art, <b>soft</b> means properties can be reloaded without requiring a serve=
+r restart. All boolean properties, i.e. those with <b>true/false</b> values=
+, always default to false, so you can safely remove all properties and only=
+ turn those features on that you want.
+</p><p><i>Please note that there are a lot of properties, and it takes quit=
+e a lot of time to write documentation, so there will come explanations for=
+ all properties, just be patient. Most property-names are hopefully self-ex=
+planatory to some degree.</i>
+</p>
+<dl><dt>useCommandHandler (true|false, soft)</dt>
+<dd>Whether to use custom commands. Most custom commands will write usage i=
+nstructions when entering the command without arguments. Some commands does=
+n't have any arguments, if so the description will say so.</dd>
+<dt>handleCommandConfig (true|false, soft)</dt>
+<dd>Adds the GM-command: #config</dd>
+<dd>Reloads the Awakening properties file. Note, no other properties file i=
+s reloaded.</dd>
+<dt>handleCommandRestore (true|false, soft)</dt>
+<dd>Adds the GM-command: #restore</dd>
+<dd>This command makes it possible to restore parts of the map to the shape=
+ of another map. You need to upload the other map, which for example could =
+be the original version of the map at server start. Then load the other map=
+ into memory with the restore-command, and then use the restore-command to =
+restore the map to the other version. Make sure to backup the map in case s=
+omething would go wrong.</dd>
+<dt>handleCommandAlts (true|false, soft)</dt>
+<dd>Adds the GM/CM-command: #alts &lt;player&gt;</dd>
+<dd>List all characters sharing the same steam ID or IP address, which may =
+or may not be alts.</dd>
+<dt>handleCommandMonitor (true|false, soft)</dt>
+<dd>Adds the GM/CM-command: #monitor &lt;player&gt; &lt;time&gt;</dd>
+<dd>This command will monitor actions of a <b>player</b> for <b>time</b> in=
+ minutes, which is written to a log file on the server. This is a tool for =
+detecting macro cheating without having to login with a GM. The log file co=
+ntains detailed information of actions and timers.</dd>
+<dt>handleCommandPvP (true|false, soft)</dt>
+<dd>Adds the GM/CM-command: #pvp &lt;player&gt; remove</dd>
+<dd>On PvP-servers, makes it possible for staff to remove the custom player=
+ PvP setting.</dd>
+<dt>handleCommandKarma (true|false, soft)</dt>
+<dd>Adds the GM-command: #karma &lt;player&gt; &lt;amount&gt;</dd>
+<dd>Give a <b>player</b> the <b>amount</b> of karma.</dd>
+<dt>handleCommandRotate (true|false, soft)</dt>
+<dd>Adds the GM-command: #rotate &lt;wurmId&gt; &lt;degrees&gt;</dd>
+<dd>Rotates a creature with <b>wurmId</b> to the angle <b>degrees</b>. This=
+ helps GMs when setting up static creatures that doesn't move, but somehow =
+is summoned in the wrong direction.</dd>
+<dt>handleCommandInventory (true|false, soft)</dt>
+<dd>Adds the GM-command: #inventory &lt;wurmId&gt; clear</dd>
+<dd>Destroy all items in the creature's inventory.</dd>
+<dt>handleCommandTransfer (true|false, soft)</dt>
+<dd>Adds the GM-command: #transfer &lt;player&gt; &lt;dbFile&gt; &lt;dbPlay=
+er&gt;</dd>
+<dd>Transfer a player's money, karma and skills from an external db.</dd>
+<dt>handleCommandSQL (true|false, soft)</dt>
+<dd>Adds the GM-command: #sql [or #sql-&lt;dbFile&gt;] &lt;sqlite3-query&gt=
+;</dd>
+<dd>Executes a SQL-query, default dbFile is modsupport. For example, to edi=
+t the players db run <code>#sql-wurmplayers UPDATE PLAYERS SET MONEY=3D1000=
+000 WHERE WURMID=3D12345</code>.</dd>
+<dd><b>Warning!</b> Only use this command if you know what you're doing.</d=
+d>
+<dt>handleCommandSchedule (true|false, soft)</dt>
+<dd>Adds the GM/CM-command: #schedule</dd>
+<dd>Enter <b>#schedule</b> for instructions how to use this command. Curren=
+tly, the only scheduled action is broadcasting a message on a timer.</dd>
+<dt>handleCommandSetResource (true|false, soft)</dt>
+<dd>Adds the GM-command: #resource</dd>
+<dt>handleCommandFlowersFix (true|false, soft)</dt>
+<dd>Adds the GM-command: #flowersfix -- Used to fix bugged flowers on the m=
+ap, i.e. flowers that doesn't exist.</dd>
+<dt>handleCommandLag (true|false, soft)</dt>
+<dd>Adds the command: #lag -- Show the amount of server lag in seconds sinc=
+e server start.</dd>
+<dt>handleCommandBank (true|false, soft)</dt>
+<dd>Adds the command: #bank -- Show money in the bank.</dd>
+<dt>handleCommandPvPList (true|false, soft)</dt>
+<dd>Adds the command: #pvp -- List all players with the PvP setting.</dd>
+<dt>useLeaderBoard (true|false, hard)</dt>
+<dd>Use the Awakening leaderboard. It adds a "Leaderboard" option when righ=
+t clicking a skill in the skill-window, or in the Body-menu. By selecting i=
+t, a popup is opened with a top-ten list of the players with the highest sk=
+ill-levels; or from the Body-meny, the top-ten players with the highest sco=
+re of the average of their individual top-ten skills.</dd>
+<dt>useLowerCaveCeiling (true|false, hard)</dt>
+<dd>Feature to lower the ceiling in caves using concrete, works the same as=
+ raising floor.</dd>
+<dt>useScheduler (true|false, hard)</dt>
+<dd>Using the scheduler is required to use all scheduled features. This als=
+o includes saving player settings.</dd>
+<dt>useItemCreationEntries (true|false, hard)</dt>
+<dd>Adds a number of custom items and creation entries for many items that =
+can't be created in vanilla Wurm.</dd>
+<dt>usePlayerSettings (true|false, hard)</dt>
+<dd>Adds an option in the Body-menu "Settings", with settings for opting to=
+ use PvP. What settings are available depends on what other features are tu=
+rned on: On PvP servers, players can opt in for full PvP or limited PvP (th=
+is adds no special PvP game mechanics, only to show who are into PvP, on Aw=
+akening this is coordinated with special PvP rules and other servers may cr=
+eate other rules regarding this); opt in/out from all leaderboards (if lead=
+erboards are turned on); For mayors theres a setting to disable custom deed=
+ farm growth (should be turned on to show); mayors can also select deed vis=
+ibility on the <a href=3D"https://wiki.wurm-unlimited.net/page/Kenabil%27s_=
+Map_Viewer" title=3D"Kenabil's Map Viewer">map viewer</a>.</dd>
+<dt>useAcceptLoginDifferentIPs (true|false, hard)</dt>
+<dd>Allows players to loging from diffeent IPs.</dd>
+<dt>useMayorsCanTurnUnlawful (true|false, hard)</dt>
+<dd>Allows mayors to turn unlawful.</dd>
+<dt>useOffspringNames (true|false, hard)</dt>
+<dd>When turned on, makes all offspring of all creatures get individual nam=
+es, just like horses.</dd>
+<dt>useCustomPetHandling (true|false, hard)</dt>
+<dd>Improved handling of pets. By default pets are passive, and won't attac=
+k aggro creatures, nor be attacked. Pets now only attack when given the com=
+mand to attack, and then continue attacking until given the command to clea=
+r orders. Note that when in combat, pet commands are handled like normal ac=
+tions and are triggered after combat. Therefore pets neets to be given atta=
+ck command before going into combat or they will remain passive.</dd>
+<dt>usePlayerHoverText (true|false, hard)</dt>
+<dd>Add custom tooltip-text when hovering over over a player. This will sho=
+w <i>[PvP]</i> in the tooltip for players having the PvP-setting.</dd>
+<dt>useKingdomsMayAlly (true|false, hard)</dt>
+<dd>This setting will turn on the option for kingdoms to become allied. All=
+ied kingdoms are not enemies and guards won't attack visiting players. Note=
+: Tower guards won't listen to "guards!" calls from players of allied kingd=
+oms.</dd>
+<dt>useInitializeFarmToMidnightGMT (true|false, hard)</dt>
+<dd>This will make farm ticks start the timer at 00:00 GMT instead of serve=
+r start time. If the farm tick cycle is 24h it will always be at 00:00 GMT.=
+</dd>
+<dt>useFarmGrowthWhenTended (true|false, hard)</dt>
+<dd>Farm tiles inside a deed border only go to the next growth stage when t=
+hey have been tended. When a deed disbands, farm tiles will decay normally.=
+ Farm tiles can be used for decorating deeds in any growth stage by not ten=
+ding them.</dd>
+<dt>useAcceptingDeityNames (true|false, hard)</dt>
+<dd>Will permit players to use deity names and other blocked names. To bloc=
+k specific names, simply create new characters with the names that should b=
+e blocked.</dd>
+<dt>useIsTurnableFix (true|false, hard)</dt>
+<dd>Fixes the GM-setting for items, so when set to not turnable, they are.<=
+/dd>
+<dt>useIsMoveableFix (true|false, hard)</dt>
+<dd>Fixes the GM-setting for items, so when set to not moveable, they are.<=
+/dd>
+<dt>useBulkChest (true|false, hard)</dt>
+<dd>Adds a smaller bulk storage item, the bulk chest, for storing bulk item=
+s in a furniture. It has a smaller volume and will store only a fraction of=
+ a BSB, but stores by volume and so small volume items can be stored in lar=
+ge numbers. The reason for this item is for mainly decorative purposes, pla=
+ce a bulk chest near an oven for wood scraps and kindling, or near a loom o=
+r spinning wheel for threads and yarn, etc. It may not loos as well with a =
+large BSB. Can be loaded on a cart, so also works as a small loadable BSB.<=
+/dd>
+<dt>useRecipeItems (true|false, hard)</dt>
+<dd>Added custom recipe items, coffee beans, coffee, peanuts etc. To be use=
+d in custom recipes published on the WU forum for recipes. To gain access t=
+o this forum you must be a server host, apply to become member in the serve=
+r hosts group.</dd>
+<dt>useCorpseColourCreatureFix (true|false, hard)</dt>
+<dd>For custom creatures. Corpses get the same colour as the living creatur=
+e. This only applies to creatures where the template has a colour, so not c=
+reatures where the colour is because of a modifier such as "greenish".</dd>
+<dt>useCorpseSizeCreatureFix (true|false, hard)</dt>
+<dd>For custom creatures. Make the corpse get the same size as the creature=
+. This only applies to creatures with a custom size. Corpses of creatures w=
+ith modifiers such as "champion" get the same size anyway.</dd>
+<dt>useAdjustSizeByTraits (true|false, hard)</dt>
+<dd>Traits affects the size of creatures, making it possible to breed large=
+r or smaller creatures. Note: cretures that can be mounted won't change siz=
+e.</dd>
+<dt>useAdjustMilkByTraits (true|false, hard)</dt>
+<dd>Traits affects the amount of milk given, making it possible to breed fo=
+r more or less milk.</dd>
+<dt>useAdjustWoolByTraits (true|false, hard)</dt>
+<dd>Traits affects the amount of wool given, making it possible to breed fo=
+r more or less wool.</dd>
+<dt>useBrandNullPointerFix (true|false, hard)</dt>
+<dd>Bug fix for error messages when branding animals from outside the deed.=
+</dd>
+<dt>useMayDropDirt (true|false, hard)</dt>
+<dd>Blocks dropping dirt on enemy deed tiles. This feature is for PvP serve=
+rs, to prevent dropping dirt to pass dirt walls or moats. Instead, raiders =
+have to use siege engines and climb dirt walls, which makes warfare more hi=
+storically realistic.</dd>
+<dt>useCheckForTreeSprout (true|false, hard)</dt>
+<dd>Blocks oak and willow trees from spreading naturally by sprout.</dd>
+<dt>useContinueInHouseWithoutManage (true|false, hard)</dt>
+<dd>Permit continue building inside a house without <b>Manage Building</b> =
+set.</dd>
+<dt>useCanAllowEveryone (true|false, hard)</dt>
+<dd>For PvP servers, adds option to set permissions for Everyone, i.e. incl=
+uding players from other kingdoms.</dd>
+<dt>useCanPlantMarkerBlessed (true|false, hard)</dt>
+<dd>Block planting highway markers such as catseyes unless blessed by a pri=
+est - making the highway system powered by magic.</dd>
+<dt>useOldSkillMeditation (true|false, hard)</dt>
+<dd>Use the old Wurm Online skill gains system for the meditation skill. Th=
+is makes it possible to gain meditation 100 on a 1x1x server. Note that ski=
+ll ticks are like on Wurm Online based on the action timer, and skill gains=
+ depends on the power of the skill check, so not all meditations will incre=
+ase skill, and QL of the rug affects the chance of gains.</dd>
+<dt>useOneCharacterPerSteamId (true|false, hard)</dt>
+<dd>Block players from logging in with more than one character per steam ID=
+ at the same time.</dd>
+<dt>useCharactersOnlySameKingdom (true|false, hard)</dt>
+<dd>Blocking players from logging in with alts being citizens of different =
+kingdoms. A main character is determined by selecting the alt with most onl=
+ine time, and alts of other kingdoms when logging in get one change to chan=
+ge kingdom and after that are unable to login again. Note that cross kingdo=
+m alts can still be created by using different steam IDs.</dd>
+<dt>useHandleServerLag (true|false, hard)</dt>
+<dd>Broadcasts a message when server is experiencing lag.</dd>
+<dt>serverLagReportTime (default 10 minutes, soft)</dt>
+<dd>Minimum time between lag reports.</dd>
+<dt>antiMacroHandling (true|false, hard)</dt>
+<dd>Activating the anti macro handling system, which detects macro patterns=
+ and sends a popup with a question "Are you a robot?", to which players nee=
+d to answer "no" of course. A macro or clicker will continue the same actio=
+n even after the question has been sent, and so if the question is failed t=
+he players is considered a player using a macro of some kind.</dd>
+<dt>antiMacroPunishing (true|false, soft)</dt>
+<dd>Activating punishing of players who has failed the robot question.</dd>
+<dt>antiMacroPatternedActionTime (default 300 milliseconds, soft)</dt>
+<dd>Time between actions in macro pattern detection.</dd>
+<dt>antiMacroPatternedActions (default 100 actions, soft)</dt>
+<dd>Minimum number of actions before sending the robot question.</dd>
+<dt>antiMacroRobotActionsCounter (default 15 actions, soft)</dt>
+<dd>Number of actions after the robot question has been sent, after which i=
+t will be considered macroing.</dd>
+<dt>antiMacroRobotTestTimeMin (default 120 minutes, soft)</dt>
+<dd>Minimum time before the robot question is sent.</dd>
+<dt>antiMacroRobotTestTimeMax (default 240 minutes, soft)</dt>
+<dd>Minimum time before the robot question is sent, random range min-max as=
+ minimum time.</dd>
+<dt>antiMacroRobotPunishTime (default 10 minutes, soft)</dt>
+<dd>If the robot question should be failed, either by answering "yes" or th=
+at the popup times out for some reason. The players can still pass the ques=
+tion by doing no actions at all for this amount of time. Next action after =
+this time will send a message in the Event-log confirming the question pass=
+ed.</dd>
+<dt>antiMacroRandomActionsMin (default 1000 actions, soft)</dt>
+<dd>Random number in the range min-max of actions between robot questions. =
+So, robot questions will be sent as random tests even if no macro patterns =
+have been detected.</dd>
+<dt>antiMacroRandomActionsMax (default 2000 actions, soft)</dt>
+<dd>Maximum value of the range of random actions between robot questions.</=
+dd>
+<dt>useDecayAbandonedLocks (true|false, hard)</dt>
+<dd>This features removes locks on items such as carts and chests and BSBs,=
+ when the owner of the item has been offline for a set amount of time. This=
+ does not apply for items located inside deeds where the owner is a citizen=
+. If the item is planted it will un-plant. The unlocking process is run at =
+server restart and doesn't add to server runtime overhead.</dd>
+<dt>decayAbandonedLocksDays (default 90 days)</dt>
+<dd>Number of days of offline time of the owner of locked items, before loc=
+ks decays.</dd>
+<dt>decayAbandonedLocksPVEOnly (true|false, hard)</dt>
+<dd>Limit lock decay to only be applied to items inside PvE zones or outsid=
+e of PvP zones, depending on whether the server is PvP or PvE.</dd>
+<dt>decayAbandonedLocksUnplant (true|false, hard)</dt>
+<dd>Items where the lock decays also un-plant if planted.</dd>
+<dt>useClaimByEmbarkUnlockedVehicle (true|false, soft)</dt>
+<dd>Carts and ships without a lock change owner when a new player embark th=
+e vehicle as the driver. To remain owner the player should put on a lock.</=
+dd>
+<dt>usePlagues (true|false, hard)</dt>
+<dd>Adds plagues to the server, causing random death to creatures in excess=
+ of maximum number of creatures.</dd>
+<dt>plagueRadius (default 50 tiles, soft)</dt>
+<dd>Each plague hit, creatures within a random circle with this radius are =
+killed.</dd>
+<dt>plagueMinPopulation (default 500 creatures, soft)</dt>
+<dd>If population of a creature type is lower then this number, they are sp=
+ared from the plague.</dd>
+<dt>plagueMaxCreaturesMargin (default 1000 creatures, soft)</dt>
+<dd>Margin added to maximum number of creatures.</dd>
+<dt>useInventorySupplier (true|false, hard)</dt>
+<dd>Resupply merchants with common trader wares (daily at 7, Wurm time):
+<dl><dt>kingdomTrader_1=3D&lt;wurmId&gt;</dt>
+<dt>kingdomTrader_2=3D&lt;wurmId&gt;</dt></dl></dd>
+<dd>etc.</dd></dl>
+<!--=20
+NewPP limit report
+Cached time: 20231226202659
+Cache expiry: 86400
+Dynamic content: false
+Complications: []
+CPU time usage: 0.017 seconds
+Real time usage: 0.023 seconds
+Preprocessor visited node count: 6/1000000
+Preprocessor generated node count: 0/1000000
+Post=E2=80=90expand include size: 0/2097152 bytes
+Template argument size: 0/2097152 bytes
+Highest expansion depth: 2/40
+Expensive parser function count: 0/100
+Unstrip recursion depth: 0/20
+Unstrip post=E2=80=90expand size: 0/5000000 bytes
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%    0.000      1 -total
+-->
+
+<!-- Saved in parser cache with key wiki:pcache:idhash:2-0!canonical and ti=
+mestamp 20231226202659 and revision id 231
+ -->
+</div></div>
+	=09
+		<div class=3D"printfooter">Retrieved from "<a dir=3D"ltr" href=3D"https:/=
+/wiki.wurm-unlimited.net/w/index.php?title=3DAwakening_Server_Mod&amp;oldid=
+=3D231">https://wiki.wurm-unlimited.net/w/index.php?title=3DAwakening_Serve=
+r_Mod&amp;oldid=3D231</a>"</div>
+	=09
+		<div id=3D"catlinks" class=3D"catlinks" data-mw=3D"interface"><div id=3D"=
+mw-normal-catlinks" class=3D"mw-normal-catlinks"><a href=3D"https://wiki.wu=
+rm-unlimited.net/page/Special:Categories" title=3D"Special:Categories">Cate=
+gories</a>: <ul><li><a href=3D"https://wiki.wurm-unlimited.net/page/Categor=
+y:Mods" title=3D"Category:Mods">Mods</a></li><li><a href=3D"https://wiki.wu=
+rm-unlimited.net/page/Category:Server_Mods" title=3D"Category:Server Mods">=
+Server Mods</a></li><li><a href=3D"https://wiki.wurm-unlimited.net/page/Cat=
+egory:Kenabil" title=3D"Category:Kenabil">Kenabil</a></li><li><a href=3D"ht=
+tps://wiki.wurm-unlimited.net/page/Category:Awakening" title=3D"Category:Aw=
+akening">Awakening</a></li></ul></div></div>
+		<div class=3D"visualClear"></div>
+	=09
+	</div>
+</div>
+
+
+		<div id=3D"mw-navigation">
+			<h2>Navigation menu</h2>
+			<div id=3D"mw-head">
+									<div id=3D"p-personal" role=3D"navigation" aria-labelledby=3D"p-pe=
+rsonal-label">
+						<h3 id=3D"p-personal-label">Personal tools</h3>
+						<ul>
+							<li id=3D"pt-login"><a href=3D"https://forum.wurm-unlimited.net/ucp.=
+php?mode=3Dlogin&amp;redirect=3Dhttps%3A%2F%2Fwiki.wurm-unlimited.net%2Fpag=
+e%2FAwakening_Server_Mod" title=3D"You are encouraged to log in; however, i=
+t is not mandatory [alt-shift-o]" accesskey=3D"o">Log in</a></li>						</ul=
+>
+					</div>
+									<div id=3D"left-navigation">
+										<div id=3D"p-namespaces" role=3D"navigation" class=3D"vectorTabs"=
+ aria-labelledby=3D"p-namespaces-label">
+						<h3 id=3D"p-namespaces-label">Namespaces</h3>
+						<ul>
+							<li id=3D"ca-nstab-main" class=3D"selected"><span><a href=3D"https:/=
+/wiki.wurm-unlimited.net/page/Awakening_Server_Mod" title=3D"View the conte=
+nt page [alt-shift-c]" accesskey=3D"c">Page</a></span></li><li id=3D"ca-tal=
+k" class=3D"new"><span><a href=3D"https://wiki.wurm-unlimited.net/w/index.p=
+hp?title=3DTalk:Awakening_Server_Mod&amp;action=3Dedit&amp;redlink=3D1" rel=
+=3D"discussion" title=3D"Discussion about the content page (page does not e=
+xist) [alt-shift-t]" accesskey=3D"t">Discussion</a></span></li>						</ul>
+					</div>
+										<div id=3D"p-variants" role=3D"navigation" class=3D"vectorMenu em=
+ptyPortlet" aria-labelledby=3D"p-variants-label">
+												<input type=3D"checkbox" class=3D"vectorMenuCheckbox" aria-labe=
+lledby=3D"p-variants-label">
+						<h3 id=3D"p-variants-label">
+							<span>Variants</span>
+						</h3>
+						<ul class=3D"menu">
+													</ul>
+					</div>
+									</div>
+				<div id=3D"right-navigation">
+										<div id=3D"p-views" role=3D"navigation" class=3D"vectorTabs" aria=
+-labelledby=3D"p-views-label">
+						<h3 id=3D"p-views-label">Views</h3>
+						<ul>
+							<li id=3D"ca-view" class=3D"collapsible selected"><span><a href=3D"h=
+ttps://wiki.wurm-unlimited.net/page/Awakening_Server_Mod">Read</a></span></=
+li><li id=3D"ca-viewsource" class=3D"collapsible"><span><a href=3D"https://=
+wiki.wurm-unlimited.net/w/index.php?title=3DAwakening_Server_Mod&amp;action=
+=3Dedit" title=3D"This page is protected.
+You can view its source [alt-shift-e]" accesskey=3D"e">View source</a></spa=
+n></li><li id=3D"ca-history" class=3D"collapsible"><span><a href=3D"https:/=
+/wiki.wurm-unlimited.net/w/index.php?title=3DAwakening_Server_Mod&amp;actio=
+n=3Dhistory" title=3D"Past revisions of this page [alt-shift-h]" accesskey=
+=3D"h">View history</a></span></li>						</ul>
+					</div>
+										<div id=3D"p-cactions" role=3D"navigation" class=3D"vectorMenu em=
+ptyPortlet" aria-labelledby=3D"p-cactions-label">
+						<input type=3D"checkbox" class=3D"vectorMenuCheckbox" aria-labelledby=
+=3D"p-cactions-label">
+						<h3 id=3D"p-cactions-label"><span>More</span></h3>
+						<ul class=3D"menu">
+													</ul>
+					</div>
+										<div id=3D"p-search" role=3D"search">
+						<h3>
+							<label for=3D"searchInput">Search</label>
+						</h3>
+						<form action=3D"https://wiki.wurm-unlimited.net/w/index.php" id=3D"se=
+archform">
+							<div id=3D"simpleSearch">
+								<input type=3D"search" name=3D"search" placeholder=3D"Search Wurm U=
+nlimited" title=3D"Search Wurm Unlimited [alt-shift-f]" accesskey=3D"f" id=
+=3D"searchInput" autocomplete=3D"off"><input type=3D"submit" name=3D"go" va=
+lue=3D"Go" title=3D"Go to a page with this exact name if it exists" id=3D"s=
+earchButton" class=3D"searchButton">							</div>
+						</form>
+					</div>
+									</div>
+			</div>
+			<div id=3D"mw-panel">
+				<div id=3D"p-logo" role=3D"banner"><a class=3D"mw-wiki-logo" href=3D"ht=
+tps://wiki.wurm-unlimited.net/page/Main_Page" title=3D"Visit the main page"=
+></a></div>
+						<div class=3D"portal" role=3D"navigation" id=3D"p-navigation" aria-la=
+belledby=3D"p-navigation-label">
+			<h3 id=3D"p-navigation-label">Navigation</h3>
+			<div class=3D"body">
+								<ul>
+					<li id=3D"n-mainpage-description"><a href=3D"https://wiki.wurm-unlimit=
+ed.net/page/Main_Page" title=3D"Visit the main page [alt-shift-z]" accesske=
+y=3D"z">Main page</a></li><li id=3D"n-recentchanges"><a href=3D"https://wik=
+i.wurm-unlimited.net/page/Special:RecentChanges" title=3D"A list of recent =
+changes in the wiki [alt-shift-r]" accesskey=3D"r">Recent changes</a></li><=
+li id=3D"n-randompage"><a href=3D"https://wiki.wurm-unlimited.net/page/Spec=
+ial:Random" title=3D"Load a random page [alt-shift-x]" accesskey=3D"x">Rand=
+om page</a></li><li id=3D"n-help-mediawiki"><a href=3D"https://www.mediawik=
+i.org/wiki/Special:MyLanguage/Help:Contents">Help about MediaWiki</a></li>	=
+			</ul>
+							</div>
+		</div>
+			<div class=3D"portal" role=3D"navigation" id=3D"p-tb" aria-labelledby=3D=
+"p-tb-label">
+			<h3 id=3D"p-tb-label">Tools</h3>
+			<div class=3D"body">
+								<ul>
+					<li id=3D"t-whatlinkshere"><a href=3D"https://wiki.wurm-unlimited.net/=
+page/Special:WhatLinksHere/Awakening_Server_Mod" title=3D"A list of all wik=
+i pages that link here [alt-shift-j]" accesskey=3D"j">What links here</a></=
+li><li id=3D"t-recentchangeslinked"><a href=3D"https://wiki.wurm-unlimited.=
+net/page/Special:RecentChangesLinked/Awakening_Server_Mod" rel=3D"nofollow"=
+ title=3D"Recent changes in pages linked from this page [alt-shift-k]" acce=
+sskey=3D"k">Related changes</a></li><li id=3D"t-specialpages"><a href=3D"ht=
+tps://wiki.wurm-unlimited.net/page/Special:SpecialPages" title=3D"A list of=
+ all special pages [alt-shift-q]" accesskey=3D"q">Special pages</a></li><li=
+ id=3D"t-print"><a href=3D"https://wiki.wurm-unlimited.net/w/index.php?titl=
+e=3DAwakening_Server_Mod&amp;printable=3Dyes" rel=3D"alternate" title=3D"Pr=
+intable version of this page [alt-shift-p]" accesskey=3D"p">Printable versi=
+on</a></li><li id=3D"t-permalink"><a href=3D"https://wiki.wurm-unlimited.ne=
+t/w/index.php?title=3DAwakening_Server_Mod&amp;oldid=3D231" title=3D"Perman=
+ent link to this revision of the page">Permanent link</a></li><li id=3D"t-i=
+nfo"><a href=3D"https://wiki.wurm-unlimited.net/w/index.php?title=3DAwakeni=
+ng_Server_Mod&amp;action=3Dinfo" title=3D"More information about this page"=
+>Page information</a></li>				</ul>
+							</div>
+		</div>
+				</div>
+		</div>
+				<div id=3D"footer" role=3D"contentinfo">
+						<ul id=3D"footer-info">
+								<li id=3D"footer-info-lastmod"> This page was last edited on 7 Apri=
+l 2021, at 22:18.</li>
+								<li id=3D"footer-info-copyright">Content is available under <a clas=
+s=3D"external" rel=3D"nofollow" href=3D"https://creativecommons.org/license=
+s/by/4.0/">Creative Commons Attribution</a> unless otherwise noted.</li>
+							</ul>
+						<ul id=3D"footer-places">
+								<li id=3D"footer-places-privacy"><a href=3D"https://wiki.wurm-unlim=
+ited.net/page/WurmUnlimited:Privacy_policy" title=3D"WurmUnlimited:Privacy =
+policy">Privacy policy</a></li>
+								<li id=3D"footer-places-about"><a href=3D"https://wiki.wurm-unlimit=
+ed.net/page/WurmUnlimited:About" title=3D"WurmUnlimited:About">About Wurm U=
+nlimited</a></li>
+								<li id=3D"footer-places-disclaimer"><a href=3D"https://wiki.wurm-un=
+limited.net/page/WurmUnlimited:General_disclaimer" title=3D"WurmUnlimited:G=
+eneral disclaimer">Disclaimers</a></li>
+							</ul>
+										<ul id=3D"footer-icons" class=3D"noprint">
+										<li id=3D"footer-copyrightico">
+						<a href=3D"https://creativecommons.org/licenses/by/4.0/"><img src=3D"=
+https://wiki.wurm-unlimited.net/w/resources/assets/licenses/cc-by.png" alt=
+=3D"Creative Commons Attribution" width=3D"88" height=3D"31"></a>					</li>
+										<li id=3D"footer-poweredbyico">
+						<a href=3D"https://www.mediawiki.org/"><img src=3D"https://wiki.wurm-=
+unlimited.net/w/resources/assets/poweredby_mediawiki_88x31.png" alt=3D"Powe=
+red by MediaWiki" width=3D"88" height=3D"31"></a>					</li>
+									</ul>
+						<div style=3D"clear: both;"></div>
+		</div>
+	=09
+
+
+
+
+<div class=3D"suggestions" style=3D"display: none; font-size: 13px;"><div c=
+lass=3D"suggestions-results"></div><div class=3D"suggestions-special"></div=
+></div></body></html>
+------MultipartBoundary--6iFc7K0vUw1XyDhdN7li2jYdRDcOcaQjWbCgzrk99x----
+Content-Type: text/css
+Content-Transfer-Encoding: quoted-printable
+Content-Location: cid:css-f43773e4-deb4-43e6-baee-70195678e55e@mhtml.blink
+
+@charset "utf-8";
+
+.suggestions { overflow: hidden; position: absolute; top: 0px; left: 0px; w=
+idth: 0px; border: 0px; z-index: 1099; padding: 0px; margin: -1px 0px 0px; =
+}
+
+.suggestions-special { position: relative; background-color: rgb(255, 255, =
+255); cursor: pointer; border: 1px solid rgb(162, 169, 177); margin: -2px 0=
+px 0px; display: none; padding: 0.25em; line-height: 1.25em; }
+
+.suggestions-results { background-color: rgb(255, 255, 255); cursor: pointe=
+r; border: 1px solid rgb(162, 169, 177); padding: 0px; margin: 0px; }
+
+.suggestions-result { color: rgb(0, 0, 0); margin: 0px; line-height: 1.5em;=
+ padding: 0.01em 0.25em; text-align: left; overflow: hidden; text-overflow:=
+ ellipsis; white-space: nowrap; }
+
+.suggestions-result-current { background-color: rgb(42, 75, 141); color: rg=
+b(255, 255, 255); }
+
+.suggestions-special .special-label { color: rgb(114, 119, 125); text-align=
+: left; }
+
+.suggestions-special .special-query { color: rgb(0, 0, 0); font-style: ital=
+ic; text-align: left; }
+
+.suggestions-special .special-hover { background-color: rgb(200, 204, 209);=
+ }
+
+.suggestions-result-current .special-label, .suggestions-result-current .sp=
+ecial-query { color: rgb(255, 255, 255); }
+
+.highlight { font-weight: bold; }
+------MultipartBoundary--6iFc7K0vUw1XyDhdN7li2jYdRDcOcaQjWbCgzrk99x----
+Content-Type: text/css
+Content-Transfer-Encoding: quoted-printable
+Content-Location: cid:css-2d65bf24-3706-456a-aa61-92e68eeb2a79@mhtml.blink
+
+@charset "utf-8";
+
+.suggestions a.mw-searchSuggest-link, .suggestions a.mw-searchSuggest-link:=
+hover, .suggestions a.mw-searchSuggest-link:active, .suggestions a.mw-searc=
+hSuggest-link:focus { color: rgb(0, 0, 0); text-decoration: none; }
+
+.suggestions-result-current a.mw-searchSuggest-link, .suggestions-result-cu=
+rrent a.mw-searchSuggest-link:hover, .suggestions-result-current a.mw-searc=
+hSuggest-link:active, .suggestions-result-current a.mw-searchSuggest-link:f=
+ocus { color: rgb(255, 255, 255); }
+
+.suggestions a.mw-searchSuggest-link .special-query { overflow: hidden; tex=
+t-overflow: ellipsis; white-space: nowrap; }
+------MultipartBoundary--6iFc7K0vUw1XyDhdN7li2jYdRDcOcaQjWbCgzrk99x----
+Content-Type: text/css
+Content-Transfer-Encoding: quoted-printable
+Content-Location: https://wiki.wurm-unlimited.net/w/load.php?lang=en&modules=ext.3d.styles%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.skinning.interface%7Cskins.vector.styles&only=styles&skin=vector
+
+@charset "utf-8";
+
+.mw-3d-wrapper { display: inline-block; position: relative; overflow: hidde=
+n; vertical-align: top; }
+
+.mw-3d-wrapper::after { content: attr(data-label); position: absolute; poin=
+ter-events: none; top: 11px; left: 11px; color: rgb(30, 31, 33); font-size:=
+ 14px; line-height: 19px; font-weight: bold; opacity: 0.8; padding: 2px 5px=
+; background-color: rgb(248, 249, 250); border-radius: 2px; }
+
+.mw-3d-thumb-placeholder { display: inline-block; text-decoration: none; co=
+lor: rgb(34, 34, 34); }
+
+@media print {
+  .noprint, .catlinks, .magnify, .mw-cite-backlink, .mw-editsection, .mw-ed=
+itsection-like, .mw-hidden-catlinks, .mw-indicators, .mw-redirectedfrom, .p=
+atrollink, .usermessage, #column-one, #footer-places, #mw-navigation, #site=
+Notice, #f-poweredbyico, #f-copyrightico, li#about, li#disclaimer, li#mobil=
+eview, li#privacy { display: none; }
+  body { background: rgb(255, 255, 255); color: rgb(0, 0, 0); margin: 0px; =
+padding: 0px; }
+  a { background: none !important; padding: 0px !important; }
+  a, a.external, a.new, a.stub { color: inherit !important; text-decoration=
+: inherit !important; }
+  .mw-parser-output a.external.text::after, .mw-parser-output a.external.au=
+tonumber::after { content: " (" attr(href) ")"; word-break: break-all; over=
+flow-wrap: break-word; }
+  .mw-parser-output a.external.text[href^=3D"//"]::after, .mw-parser-output=
+ a.external.autonumber[href^=3D"//"]::after { content: " (https:" attr(href=
+) ")"; }
+  dt { font-weight: bold; }
+  h1, h2, h3, h4, h5, h6 { font-weight: bold; break-after: avoid; break-bef=
+ore: avoid; }
+  p { margin: 1em 0px; line-height: 1.2; orphans: 3; widows: 3; }
+  img, figure, .wikitable, .thumb { break-inside: avoid; }
+  img { border: 0px; vertical-align: middle; }
+  pre, .mw-code { background: rgb(255, 255, 255); color: rgb(0, 0, 0); bord=
+er: 1pt dashed rgb(0, 0, 0); padding: 1em; font-size: 8pt; white-space: pre=
+-wrap; overflow-wrap: break-word; }
+  sup, sub { line-height: 1; }
+  ul { list-style-type: square; }
+  #globalWrapper { width: 100% !important; min-width: 0px !important; }
+  .mw-body { background: rgb(255, 255, 255); color: rgb(0, 0, 0); direction=
+: ltr; border: 0px !important; padding: 0px !important; margin: 0px !import=
+ant; }
+  #column-content { margin: 0px !important; }
+  #column-content .mw-body { padding: 1em; margin: 0px !important; }
+  .toc { background-color: rgb(249, 249, 249); border: 1pt solid rgb(170, 1=
+70, 170); padding: 5px; display: table; }
+  .tocnumber, .toctext { display: table-cell; }
+  .tocnumber { padding-left: 0px; padding-right: 0.5em; }
+  .mw-content-ltr .tocnumber { padding-left: 0px; padding-right: 0.5em; }
+  .mw-content-rtl .tocnumber { padding-left: 0.5em; padding-right: 0px; }
+  table.floatright, div.floatright, div.tright { float: right; clear: right=
+; position: relative; }
+  table.floatleft, div.floatleft, div.tleft { float: left; clear: left; pos=
+ition: relative; }
+  div.tleft { margin: 0.5em 1.4em 1.3em 0px; }
+  div.tright { margin: 0.5em 0px 1.3em 1.4em; }
+  table.floatright, div.floatright { margin: 0px 0px 0.5em 0.5em; border: 0=
+px; }
+  table.floatleft, div.floatleft { margin: 0px 0.5em 0.5em 0px; border: 0px=
+; }
+  .center { text-align: center; }
+  div.thumb { background-color: transparent; width: auto; }
+  div.thumb a { border-bottom: 0px; }
+  div.thumbinner { background-color: rgb(255, 255, 255); border: 0px; borde=
+r-radius: 2px; padding: 5px; font-size: 10pt; color: rgb(102, 102, 102); te=
+xt-align: center; overflow: hidden; min-width: 100px; }
+  html .thumbcaption { text-align: left; line-height: 1.4; padding: 3px; }
+  img.thumbborder { border: 1pt solid rgb(221, 221, 221); }
+  .wikitable, .mw_metadata { background: rgb(255, 255, 255); margin: 1em 0p=
+x; border: 1pt solid rgb(170, 170, 170); border-collapse: collapse; font-si=
+ze: 10pt; }
+  .wikitable > caption, .mw_metadata caption { padding: 5px; font-size: 10p=
+t; }
+  .wikitable > tr > th, .wikitable > tr > td, .wikitable > * > tr > th, .wi=
+kitable > * > tr > td, .mw_metadata th, .mw_metadata td { border: 1pt solid=
+ rgb(170, 170, 170); padding: 0.4em 0.6em; background: rgb(255, 255, 255) !=
+important; color: rgb(0, 0, 0) !important; }
+  .wikitable > tr > th, .wikitable > * > tr > th, .mw_metadata th { text-al=
+ign: center; }
+  table.listing, table.listing td { border: 1pt solid rgb(0, 0, 0); border-=
+collapse: collapse; }
+  .catlinks ul { display: inline; padding: 0px; list-style: none none; }
+  .catlinks li { display: inline-block; line-height: 1.15; margin: 0.1em 0p=
+x; border-left: 1pt solid rgb(170, 170, 170); padding: 0px 0.4em; }
+  .catlinks li:first-child { border-left: 0px; padding-left: 0.2em; }
+  .printfooter { padding: 1em 0px; }
+  #footer { background: rgb(255, 255, 255); color: rgb(0, 0, 0); margin-top=
+: 1em; border-top: 1pt solid rgb(170, 170, 170); padding-top: 5px; directio=
+n: ltr; }
+}
+
+@media screen {
+  .mw-content-ltr { direction: ltr; }
+  .mw-content-rtl { direction: rtl; }
+  .sitedir-ltr textarea, .sitedir-ltr input { direction: ltr; }
+  .sitedir-rtl textarea, .sitedir-rtl input { direction: rtl; }
+  .mw-userlink { unicode-bidi: embed; }
+  mark { background-color: rgb(255, 255, 0); color: rgb(0, 0, 0); }
+  wbr { display: inline-block; }
+  input[type=3D"submit"], input[type=3D"button"], input[type=3D"reset"], in=
+put[type=3D"file"] { direction: ltr; }
+  textarea[dir=3D"ltr"], input[dir=3D"ltr"] { direction: ltr; }
+  textarea[dir=3D"rtl"], input[dir=3D"rtl"] { direction: rtl; }
+  abbr[title], .explain[title] { border-bottom: 1px dotted; cursor: help; }
+  @supports (text-decoration:underline dotted) {
+  abbr[title], .explain[title] { border-bottom: 0px; text-decoration: under=
+line dotted; }
+}
+  span.comment { font-style: italic; unicode-bidi: isolate; }
+  #editform, #toolbar, #wpTextbox1 { clear: both; }
+  #toolbar { height: 22px; }
+  .mw-underline-always a { text-decoration: underline; }
+  .mw-underline-never a { text-decoration: none; }
+  li span.deleted, span.history-deleted { text-decoration: line-through; co=
+lor: rgb(114, 119, 125); font-style: italic; }
+  .not-patrolled { background-color: rgb(255, 255, 170); }
+  .unpatrolled { font-weight: bold; color: rgb(221, 51, 51); }
+  div.patrollink { font-size: 75%; text-align: right; }
+  td.mw-label { text-align: right; vertical-align: middle; }
+  td.mw-input { text-align: left; }
+  td.mw-submit { text-align: left; white-space: nowrap; }
+  .mw-input-with-label { white-space: nowrap; display: inline-block; }
+  .mw-content-ltr .thumbcaption { text-align: left; }
+  .mw-content-ltr .magnify { float: right; }
+  .mw-content-rtl .thumbcaption { text-align: right; }
+  .mw-content-rtl .magnify { float: left; }
+  #catlinks { text-align: left; }
+  .catlinks ul { display: inline; margin: 0px; padding: 0px; list-style: no=
+ne none; }
+  .catlinks li { display: inline-block; line-height: 1.25em; border-left: 1=
+px solid rgb(162, 169, 177); margin: 0.125em 0px; padding: 0px 0.5em; zoom:=
+ 1; }
+  .catlinks li:first-child { padding-left: 0.25em; border-left: 0px; }
+  .catlinks li a.mw-redirect { font-style: italic; }
+  .mw-hidden-cats-hidden { display: none; }
+  .catlinks-allhidden { display: none; }
+  p.mw-protect-editreasons, p.mw-filedelete-editreasons, p.mw-delete-editre=
+asons { font-size: 90%; text-align: right; }
+  .autocomment, .autocomment a, .autocomment a:visited { color: rgb(114, 11=
+9, 125); }
+  .newpage, .minoredit, .botedit { font-weight: bold; }
+  div.mw-warning-with-logexcerpt { padding: 3px; margin-bottom: 3px; border=
+: 2px solid rgb(42, 75, 141); clear: both; }
+  div.mw-warning-with-logexcerpt ul li { font-size: 90%; }
+  span.mw-revdelundel-link, strong.mw-revdelundel-link { font-size: 90%; }
+  span.mw-revdelundel-hidden, input.mw-revdelundel-hidden { visibility: hid=
+den; }
+  td.mw-revdel-checkbox, th.mw-revdel-checkbox { padding-right: 10px; text-=
+align: center; }
+  a.new { color: rgb(186, 0, 0); }
+  .plainlinks a.external { background: none !important; padding: 0px !impor=
+tant; }
+  .rtl a.external.free, .rtl a.external.autonumber { direction: ltr; unicod=
+e-bidi: embed; }
+  .wikitable { background-color: rgb(248, 249, 250); color: rgb(34, 34, 34)=
+; margin: 1em 0px; border: 1px solid rgb(162, 169, 177); border-collapse: c=
+ollapse; }
+  .wikitable > tr > th, .wikitable > tr > td, .wikitable > * > tr > th, .wi=
+kitable > * > tr > td { border: 1px solid rgb(162, 169, 177); padding: 0.2e=
+m 0.4em; }
+  .wikitable > tr > th, .wikitable > * > tr > th { background-color: rgb(23=
+4, 236, 240); text-align: center; }
+  .wikitable > caption { font-weight: bold; }
+  .error, .warning, .success { font-size: larger; }
+  .error { color: rgb(221, 51, 51); }
+  .warning { color: rgb(172, 102, 0); }
+  .success { color: rgb(20, 134, 109); }
+  .messagebox, .errorbox, .warningbox, .successbox { color: rgb(0, 0, 0); m=
+argin-bottom: 1em; border: 1px solid; padding: 0.5em 1em; }
+  .messagebox h2, .errorbox h2, .warningbox h2, .successbox h2 { color: inh=
+erit; display: inline; margin: 0px 0.5em 0px 0px; border: 0px; font-size: 1=
+em; font-weight: bold; }
+  .messagebox { background-color: rgb(234, 236, 240); border-color: rgb(162=
+, 169, 177); }
+  .errorbox { background-color: rgb(254, 231, 230); border-color: rgb(221, =
+51, 51); }
+  .warningbox { background-color: rgb(254, 246, 231); border-color: rgb(255=
+, 204, 51); }
+  .successbox { background-color: rgb(213, 253, 244); border-color: rgb(20,=
+ 134, 109); }
+  .mw-infobox { border: 2px solid rgb(255, 204, 51); margin: 0.5em; clear: =
+left; overflow: hidden; }
+  .mw-infobox-left { margin: 7px; float: left; width: 35px; }
+  .mw-infobox-right { margin: 0.5em 0.5em 0.5em 49px; }
+  .previewnote { margin-bottom: 1em; }
+  .visualClear { clear: both; }
+  .mw-datatable { border: 1px solid rgb(162, 169, 177); border-collapse: co=
+llapse; }
+  .mw-datatable td, .mw-datatable th { border: 1px solid rgb(162, 169, 177)=
+; padding: 0.2em 0.4em; }
+  .mw-datatable th { background-color: rgb(234, 238, 255); }
+  .mw-datatable td { background-color: rgb(255, 255, 255); }
+  .mw-datatable tr:hover td { background-color: rgb(234, 243, 255); }
+  .mw-content-ltr ul, .mw-content-rtl .mw-content-ltr ul { margin: 0.3em 0p=
+x 0px 1.6em; padding: 0px; }
+  .mw-content-rtl ul, .mw-content-ltr .mw-content-rtl ul { margin: 0.3em 1.=
+6em 0px 0px; padding: 0px; }
+  .mw-content-ltr ol, .mw-content-rtl .mw-content-ltr ol { margin: 0.3em 0p=
+x 0px 3.2em; padding: 0px; }
+  .mw-content-rtl ol, .mw-content-ltr .mw-content-rtl ol { margin: 0.3em 3.=
+2em 0px 0px; padding: 0px; }
+  .mw-content-ltr dd, .mw-content-rtl .mw-content-ltr dd { margin-left: 1.6=
+em; margin-right: 0px; }
+  .mw-content-rtl dd, .mw-content-ltr .mw-content-rtl dd { margin-right: 1.=
+6em; margin-left: 0px; }
+  .mw-ajax-loader { background-image: url("/w/resources/src/mediawiki.legac=
+y/images/ajax-loader.gif?57f34"); background-position: center center; backg=
+round-repeat: no-repeat; padding: 16px; position: relative; top: -16px; }
+  .mw-small-spinner { margin-right: 0.6em; background-image: url("/w/resour=
+ces/src/mediawiki.legacy/images/spinner.gif?ca65b"); background-position: c=
+enter center; background-repeat: no-repeat; padding: 10px !important; }
+  h1:lang(anp), h1:lang(as), h1:lang(bh), h1:lang(bho), h1:lang(bn), h1:lan=
+g(gu), h1:lang(hi), h1:lang(kn), h1:lang(ks), h1:lang(ml), h1:lang(mr), h1:=
+lang(my), h1:lang(mai), h1:lang(ne), h1:lang(new), h1:lang(or), h1:lang(pa)=
+, h1:lang(pi), h1:lang(sa), h1:lang(ta), h1:lang(te) { line-height: 1.6em !=
+important; }
+  h2:lang(anp), h3:lang(anp), h4:lang(anp), h5:lang(anp), h6:lang(anp), h2:=
+lang(as), h3:lang(as), h4:lang(as), h5:lang(as), h6:lang(as), h2:lang(bho),=
+ h3:lang(bho), h4:lang(bho), h5:lang(bho), h6:lang(bho), h2:lang(bh), h3:la=
+ng(bh), h4:lang(bh), h5:lang(bh), h6:lang(bh), h2:lang(bn), h3:lang(bn), h4=
+:lang(bn), h5:lang(bn), h6:lang(bn), h2:lang(gu), h3:lang(gu), h4:lang(gu),=
+ h5:lang(gu), h6:lang(gu), h2:lang(hi), h3:lang(hi), h4:lang(hi), h5:lang(h=
+i), h6:lang(hi), h2:lang(kn), h3:lang(kn), h4:lang(kn), h5:lang(kn), h6:lan=
+g(kn), h2:lang(ks), h3:lang(ks), h4:lang(ks), h5:lang(ks), h6:lang(ks), h2:=
+lang(ml), h3:lang(ml), h4:lang(ml), h5:lang(ml), h6:lang(ml), h2:lang(mr), =
+h3:lang(mr), h4:lang(mr), h5:lang(mr), h6:lang(mr), h2:lang(my), h3:lang(my=
+), h4:lang(my), h5:lang(my), h6:lang(my), h2:lang(mai), h3:lang(mai), h4:la=
+ng(mai), h5:lang(mai), h6:lang(mai), h2:lang(ne), h3:lang(ne), h4:lang(ne),=
+ h5:lang(ne), h6:lang(ne), h2:lang(new), h3:lang(new), h4:lang(new), h5:lan=
+g(new), h6:lang(new), h2:lang(or), h3:lang(or), h4:lang(or), h5:lang(or), h=
+6:lang(or), h2:lang(pa), h3:lang(pa), h4:lang(pa), h5:lang(pa), h6:lang(pa)=
+, h2:lang(pi), h3:lang(pi), h4:lang(pi), h5:lang(pi), h6:lang(pi), h2:lang(=
+sa), h3:lang(sa), h4:lang(sa), h5:lang(sa), h6:lang(sa), h2:lang(ta), h3:la=
+ng(ta), h4:lang(ta), h5:lang(ta), h6:lang(ta), h2:lang(te), h3:lang(te), h4=
+:lang(te), h5:lang(te), h6:lang(te) { line-height: 1.2em; }
+  ol:lang(azb) li, ol:lang(bcc) li, ol:lang(bgn) li, ol:lang(bqi) li, ol:la=
+ng(fa) li, ol:lang(glk) li, ol:lang(kk-arab) li, ol:lang(lrc) li, ol:lang(l=
+uz) li, ol:lang(mzn) li { list-style-type: persian; }
+  ol:lang(ckb) li, ol:lang(sdh) li { list-style-type: arabic-indic; }
+  ol:lang(hi) li, ol:lang(mai) li, ol:lang(mr) li, ol:lang(ne) li { list-st=
+yle-type: devanagari; }
+  ol:lang(as) li, ol:lang(bn) li { list-style-type: bengali; }
+  ol:lang(or) li { list-style-type: oriya; }
+  .toc ul { margin: 0.3em 0px; }
+  .mw-content-ltr .toc ul, .mw-content-rtl .mw-content-ltr .toc ul { text-a=
+lign: left; }
+  .mw-content-rtl .toc ul, .mw-content-ltr .mw-content-rtl .toc ul { text-a=
+lign: right; }
+  .mw-content-ltr .toc ul ul, .mw-content-rtl .mw-content-ltr .toc ul ul { =
+margin: 0px 0px 0px 2em; }
+  .mw-content-rtl .toc ul ul, .mw-content-ltr .mw-content-rtl .toc ul ul { =
+margin: 0px 2em 0px 0px; }
+  .toc .toctitle { direction: ltr; }
+  #mw-clearyourcache, #mw-sitecsspreview, #mw-sitejspreview, #mw-usercsspre=
+view, #mw-userjspreview { direction: ltr; unicode-bidi: embed; }
+  #mw-revision-info, #mw-revision-info-current, #mw-revision-nav { directio=
+n: ltr; }
+  div.tright, div.floatright, table.floatright { clear: right; float: right=
+; }
+  div.tleft, div.floatleft, table.floatleft { float: left; clear: left; }
+  div.floatright, table.floatright, div.floatleft, table.floatleft { positi=
+on: relative; }
+  #mw-credits a { unicode-bidi: embed; }
+  .printfooter { display: none; }
+  .xdebug-error { position: absolute; z-index: 99; }
+  .mw-editsection { user-select: none; }
+  .mw-editsection, .mw-editsection-like { font-size: small; font-weight: no=
+rmal; margin-left: 1em; vertical-align: baseline; line-height: 1em; }
+  .mw-content-ltr .mw-editsection, .mw-content-rtl .mw-content-ltr .mw-edit=
+section { margin-left: 1em; }
+  .mw-content-rtl .mw-editsection, .mw-content-ltr .mw-content-rtl .mw-edit=
+section { margin-right: 1em; }
+  sup, sub { line-height: 1; }
+}
+
+@media screen {
+  a { text-decoration: none; color: rgb(6, 69, 173); background: none; }
+  a:not([href]) { cursor: pointer; }
+  a:visited { color: rgb(11, 0, 128); }
+  a:active { color: rgb(250, 167, 0); }
+  a:hover, a:focus { text-decoration: underline; }
+  a:lang(ar), a:lang(kk-arab), a:lang(mzn), a:lang(ps), a:lang(ur) { text-d=
+ecoration: none; }
+  a.stub { color: rgb(119, 34, 51); }
+  a.new, #p-personal a.new { color: rgb(186, 0, 0); }
+  a.mw-selflink { color: inherit; font-weight: bold; text-decoration: inher=
+it; }
+  a.mw-selflink:hover { cursor: inherit; text-decoration: inherit; }
+  a.mw-selflink:active, a.mw-selflink:visited { color: inherit; }
+  a.new:visited, #p-personal a.new:visited { color: rgb(165, 88, 88); }
+  .mw-parser-output a.extiw, .mw-parser-output a.extiw:active { color: rgb(=
+51, 102, 187); }
+  .mw-parser-output a.extiw:visited { color: rgb(102, 51, 102); }
+  .mw-parser-output a.extiw:active { color: rgb(187, 102, 51); }
+  .mw-parser-output a.external { color: rgb(51, 102, 187); }
+  .mw-parser-output a.external:visited { color: rgb(102, 51, 102); }
+  .mw-parser-output a.external:active { color: rgb(187, 102, 51); }
+  .mw-parser-output a.external.free { overflow-wrap: break-word; }
+  img { border: 0px; vertical-align: middle; }
+  hr { height: 1px; background-color: rgb(162, 169, 177); border: 0px; marg=
+in: 0.2em 0px; }
+  h1, h2, h3, h4, h5, h6 { color: rgb(0, 0, 0); background: none; font-weig=
+ht: normal; margin: 0px; overflow: hidden; padding-top: 0.5em; padding-bott=
+om: 0.17em; border-bottom: 1px solid rgb(162, 169, 177); }
+  h1 { font-size: 188%; }
+  h2 { font-size: 150%; }
+  h3, h4, h5, h6 { border-bottom: 0px; font-weight: bold; }
+  h3 { font-size: 128%; }
+  h4 { font-size: 116%; }
+  h5 { font-size: 108%; }
+  h6 { font-size: 100%; }
+  h1, h2 { margin-bottom: 0.6em; }
+  h3, h4, h5 { margin-bottom: 0.3em; }
+  p { margin: 0.4em 0px 0.5em; }
+  p img { margin: 0px; }
+  ul { margin: 0.3em 0px 0px 1.6em; padding: 0px; }
+  ol { margin: 0.3em 0px 0px 3.2em; padding: 0px; list-style-image: none; }
+  li { margin-bottom: 0.1em; }
+  dt { font-weight: bold; margin-bottom: 0.1em; }
+  dl { margin-top: 0.2em; margin-bottom: 0.5em; }
+  dd { margin-left: 1.6em; margin-bottom: 0.1em; }
+  pre, code, tt, kbd, samp, .mw-code { font-family: monospace, monospace; }
+  code { color: rgb(0, 0, 0); background-color: rgb(248, 249, 250); border:=
+ 1px solid rgb(234, 236, 240); border-radius: 2px; padding: 1px 4px; }
+  pre, .mw-code { color: rgb(0, 0, 0); background-color: rgb(248, 249, 250)=
+; border: 1px solid rgb(234, 236, 240); padding: 1em; white-space: pre-wrap=
+; }
+  table { font-size: 100%; }
+  fieldset { border: 1px solid rgb(42, 75, 141); margin: 1em 0px; padding: =
+0px 1em 1em; }
+  fieldset.nested { margin: 0px 0px 0.5em; padding: 0px 0.5em 0.5em; }
+  legend { padding: 0.5em; font-size: 95%; }
+  form { border: 0px; margin: 0px; }
+  textarea { width: 100%; padding: 0.1em; display: block; box-sizing: borde=
+r-box; }
+  .center { width: 100%; text-align: center; }
+  .center * { margin-left: auto; margin-right: auto; }
+  .small { font-size: 94%; }
+  table.small { font-size: 100%; }
+  .toc, .mw-warning, .toccolours { border: 1px solid rgb(162, 169, 177); ba=
+ckground-color: rgb(248, 249, 250); padding: 5px; font-size: 95%; }
+  .toc { display: table; zoom: 1; padding: 7px; }
+  table.toc { border-collapse: collapse; }
+  table.toc td { padding: 0px; }
+  .toc h2 { display: inline; border: 0px; padding: 0px; font-size: 100%; fo=
+nt-weight: bold; }
+  .toc .toctitle { text-align: center; }
+  .toc ul { list-style-type: none; list-style-image: none; margin-left: 0px=
+; padding: 0px; text-align: left; }
+  .toc ul ul { margin: 0px 0px 0px 2em; }
+  .tocnumber, .toctext { display: table-cell; text-decoration: inherit; }
+  .tocnumber { padding-left: 0px; padding-right: 0.5em; color: rgb(34, 34, =
+34); }
+  .mw-content-ltr .tocnumber { padding-left: 0px; padding-right: 0.5em; }
+  .mw-content-rtl .tocnumber { padding-left: 0.5em; padding-right: 0px; }
+  .mw-warning { margin-left: 50px; margin-right: 50px; text-align: center; =
+}
+  div.floatright, table.floatright { margin: 0px 0px 0.5em 0.5em; }
+  div.floatleft, table.floatleft { margin: 0px 0.5em 0.5em 0px; }
+  div.thumb { margin-bottom: 0.5em; width: auto; background-color: transpar=
+ent; }
+  div.thumbinner { border: 1px solid rgb(200, 204, 209); padding: 3px; back=
+ground-color: rgb(248, 249, 250); font-size: 94%; text-align: center; overf=
+low: hidden; }
+  html .thumbimage { background-color: rgb(255, 255, 255); border: 1px soli=
+d rgb(200, 204, 209); }
+  html .thumbcaption { border: 0px; line-height: 1.4em; padding: 3px; font-=
+size: 94%; text-align: left; }
+  div.magnify { float: right; margin-left: 3px; }
+  div.magnify a { display: block; text-indent: 15px; white-space: nowrap; o=
+verflow: hidden; width: 15px; height: 11px; background-image: linear-gradie=
+nt(transparent, transparent), url("data:image/svg+xml,%3Csvg xmlns=3D%22htt=
+p://www.w3.org/2000/svg%22 width=3D%2215%22 height=3D%2211%22 viewBox=3D%22=
+0 0 11 15%22%3E %3Cg id=3D%22magnify-clip%22 fill=3D%22%23fff%22 stroke=3D%=
+22%23000%22%3E %3Cpath id=3D%22bigbox%22 d=3D%22M1.509 1.865h10.99v7.919H1.=
+509z%22/%3E %3Cpath id=3D%22smallbox%22 d=3D%22M-1.499 6.868h5.943v4.904h-5=
+.943z%22/%3E %3C/g%3E %3C/svg%3E"); user-select: none; }
+  img.thumbborder { border: 1px solid rgb(234, 236, 240); }
+  .mw-content-ltr .thumbcaption { text-align: left; }
+  .mw-content-ltr .magnify { float: right; margin-left: 3px; margin-right: =
+0px; }
+  .mw-content-ltr div.magnify a { background-image: linear-gradient(transpa=
+rent, transparent), url("data:image/svg+xml,%3Csvg xmlns=3D%22http://www.w3=
+.org/2000/svg%22 width=3D%2215%22 height=3D%2211%22 viewBox=3D%220 0 11 15%=
+22%3E %3Cg id=3D%22magnify-clip%22 fill=3D%22%23fff%22 stroke=3D%22%23000%2=
+2%3E %3Cpath id=3D%22bigbox%22 d=3D%22M1.509 1.865h10.99v7.919H1.509z%22/%3=
+E %3Cpath id=3D%22smallbox%22 d=3D%22M-1.499 6.868h5.943v4.904h-5.943z%22/%=
+3E %3C/g%3E %3C/svg%3E"); }
+  .mw-content-rtl .thumbcaption { text-align: right; }
+  .mw-content-rtl .magnify { float: left; margin-left: 0px; margin-right: 3=
+px; }
+  .mw-content-rtl div.magnify a { background-image: linear-gradient(transpa=
+rent, transparent), url("data:image/svg+xml,%3Csvg xmlns=3D%22http://www.w3=
+.org/2000/svg%22 width=3D%2215%22 height=3D%2211%22 viewBox=3D%220 0 11 15%=
+22%3E %3Cg id=3D%22magnify-clip%22 fill=3D%22%23fff%22 stroke=3D%22%23000%2=
+2%3E %3Cpath id=3D%22bigbox%22 d=3D%22M9.491 1.865h-10.99v7.919h10.99z%22/%=
+3E %3Cpath id=3D%22smallbox%22 d=3D%22M12.499 6.868H6.556v4.904h5.943z%22/%=
+3E %3C/g%3E %3C/svg%3E"); }
+  div.tright { margin: 0.5em 0px 1.3em 1.4em; }
+  div.tleft { margin: 0.5em 1.4em 1.3em 0px; }
+  body.mw-hide-empty-elt .mw-empty-elt { display: none; }
+  .catlinks { border: 1px solid rgb(162, 169, 177); background-color: rgb(2=
+48, 249, 250); padding: 5px; margin-top: 1em; clear: both; }
+  textarea { border: 1px solid rgb(200, 204, 209); }
+  .editOptions { background-color: rgb(234, 236, 240); color: rgb(34, 34, 3=
+4); border-width: 0px 1px 1px; border-right-style: solid; border-bottom-sty=
+le: solid; border-left-style: solid; border-right-color: rgb(200, 204, 209)=
+; border-bottom-color: rgb(200, 204, 209); border-left-color: rgb(200, 204,=
+ 209); border-image: initial; border-top-style: initial; border-top-color: =
+initial; padding: 1em 1em 1.5em; margin-bottom: 2em; }
+  .usermessage { background-color: rgb(255, 206, 123); border: 1px solid rg=
+b(255, 165, 0); color: rgb(0, 0, 0); font-weight: bold; margin: 2em 0px 1em=
+; padding: 0.5em 1em; vertical-align: middle; }
+  #siteNotice { position: relative; text-align: center; margin: 0px; }
+  #localNotice { margin-bottom: 0.9em; }
+  .firstHeading { margin-bottom: 0.1em; line-height: 1.2em; padding-bottom:=
+ 0px; }
+  #siteSub { display: none; }
+  #contentSub, #contentSub2 { font-size: 84%; line-height: 1.2em; margin: 0=
+px 0px 1.4em 1em; color: rgb(84, 89, 93); width: auto; }
+  span.subpages { display: block; }
+}
+
+.mw-wiki-logo { background-image: url("/w/resources/assets/wiki.png?d15cf")=
+; }
+
+@media screen {
+  html { font-size: 100%; }
+  html, body { height: 100%; margin: 0px; padding: 0px; font-family: sans-s=
+erif; }
+  body { background-color: rgb(246, 246, 246); }
+  .mw-body, .parsoid-body { background-color: rgb(255, 255, 255); color: rg=
+b(34, 34, 34); padding: 1em; direction: ltr; }
+  .mw-body, #mw-data-after-content { margin-left: 10em; }
+  .mw-body { border-width: 1px 0px 1px 1px; border-style: solid; border-col=
+or: rgb(167, 215, 249); border-image: initial; margin-top: -1px; }
+  .mw-body h1, .mw-body-content h1, .mw-body-content h2 { margin-bottom: 0.=
+25em; padding: 0px; font-family: "Linux Libertine", Georgia, Times, serif; =
+line-height: 1.3; }
+  .mw-body h1:lang(ja), .mw-body-content h1:lang(ja), .mw-body-content h2:l=
+ang(ja), .mw-body h1:lang(he), .mw-body-content h1:lang(he), .mw-body-conte=
+nt h2:lang(he), .mw-body h1:lang(ko), .mw-body-content h1:lang(ko), .mw-bod=
+y-content h2:lang(ko) { font-family: sans-serif; }
+  .mw-body h1:lang(my), .mw-body-content h1:lang(my), .mw-body-content h2:l=
+ang(my) { line-height: normal; }
+  .mw-body h1, .mw-body-content h1 { font-size: 1.8em; }
+  .mw-body .firstHeading { overflow: visible; }
+  .mw-body .mw-indicators { float: right; font-size: 0.875em; line-height: =
+1.6; position: relative; z-index: 1; }
+  .mw-body .mw-indicator { display: inline-block; zoom: 1; }
+  .mw-body-content { position: relative; font-size: 0.875em; line-height: 1=
+.6; z-index: 0; }
+  .mw-body-content p { margin: 0.5em 0px; }
+  .mw-body-content h1 { margin-top: 1em; }
+  .mw-body-content h2 { margin-top: 1em; font-size: 1.5em; }
+  .mw-body-content h3, .mw-body-content h4, .mw-body-content h5, .mw-body-c=
+ontent h6 { margin-top: 0.3em; margin-bottom: 0px; padding-bottom: 0px; lin=
+e-height: 1.6; }
+  .mw-body-content h3 { font-size: 1.2em; }
+  .mw-body-content h3, .mw-body-content h4 { font-weight: bold; }
+  .mw-body-content h4, .mw-body-content h5, .mw-body-content h6 { font-size=
+: 100%; }
+  .mw-body-content .toc h2 { font-family: sans-serif; font-size: 100%; }
+  .mw-editsection, .mw-editsection-like { font-family: sans-serif; }
+  div.emptyPortlet { display: none; }
+  ul { list-style-image: url("data:image/svg+xml,%3Csvg xmlns=3D%22http://w=
+ww.w3.org/2000/svg%22 width=3D%225%22 height=3D%2213%22%3E %3Ccircle cx=3D%=
+222.5%22 cy=3D%229%22 r=3D%222.5%22 fill=3D%22%23222%22/%3E %3C/svg%3E"); }
+  pre, .mw-code { line-height: 1.3; }
+  #siteNotice { font-size: 0.8em; }
+  #p-personal { position: absolute; top: 0.33em; right: 0.75em; z-index: 10=
+0; }
+  #p-personal h3 { display: none; }
+  #p-personal ul { list-style: none none; margin: 0px; padding-left: 10em; =
+}
+  #p-personal li { float: left; margin-left: 0.75em; padding-top: 0.5em; fo=
+nt-size: 0.75em; line-height: 1.16667; white-space: nowrap; }
+  #pt-anonuserpage, #pt-userpage a { background-image: linear-gradient(tran=
+sparent, transparent), url("data:image/svg+xml,%3Csvg xmlns=3D%22http://www=
+.w3.org/2000/svg%22 width=3D%2220%22 height=3D%2220%22 viewBox=3D%220 0 20 =
+20%22%3E %3Cg fill=3D%22%2354595d%22%3E %3Cpath d=3D%22M10 11c-5.92 0-8 3-8=
+ 5v3h16v-3c0-2-2.08-5-8-5z%22/%3E %3Ccircle cx=3D%2210%22 cy=3D%225.5%22 r=
+=3D%224.5%22/%3E %3C/g%3E %3C/svg%3E"); background-position: left 0.333333e=
+m; background-repeat: no-repeat; background-size: 1.16667em 1.16667em; padd=
+ing-top: 0.5em !important; padding-left: 16px !important; }
+  #pt-userpage { padding-top: 0px !important; }
+  #pt-userpage a { display: inline-block; }
+  #pt-anonuserpage { color: rgb(84, 89, 93); }
+  #p-search { float: left; margin-right: 0.5em; margin-left: 0.5em; }
+  #p-search h3 { display: block; clip: rect(1px, 1px, 1px, 1px); width: 1px=
+; height: 1px; margin: -1px; border: 0px; padding: 0px; overflow: hidden; p=
+osition: absolute !important; }
+  #p-search form { margin: 0.5em 0px 0px; }
+  #simpleSearch { display: block; width: 20vw; min-width: 5em; max-width: 2=
+0em; height: 100%; margin-top: 0px; position: relative; min-height: 1px; }
+  #simpleSearch input { background-color: rgba(0, 0, 0, 0); color: rgb(0, 0=
+, 0); margin: 0px; }
+  #searchInput { width: 100%; box-sizing: border-box; border: 1px solid rgb=
+(162, 169, 177); border-radius: 2px; padding: 0.4em 1.84615em 0.4em 0.4em; =
+box-shadow: transparent 0px 0px 0px 1px inset; font-size: 0.8125em; directi=
+on: ltr; transition: border-color 250ms ease 0s, box-shadow 250ms ease 0s; =
+appearance: textfield; }
+  #simpleSearch:hover #searchInput { border-color: rgb(114, 119, 125); }
+  #searchInput:focus, #simpleSearch:hover #searchInput:focus { outline: 0px=
+; border-color: rgb(51, 102, 204); box-shadow: rgb(51, 102, 204) 0px 0px 0p=
+x 1px inset, rgb(255, 255, 255) 0px 0px 0px 2px inset; }
+  #searchInput::-webkit-input-placeholder { color: rgb(114, 119, 125); opac=
+ity: 1; }
+  #searchInput::placeholder { color: rgb(114, 119, 125); opacity: 1; }
+  #searchInput::-webkit-search-decoration, #searchInput::-webkit-search-can=
+cel-button, #searchInput::-webkit-search-results-button, #searchInput::-web=
+kit-search-results-decoration { appearance: textfield; }
+  #searchButton, #mw-searchButton { position: absolute; top: 1px; bottom: 1=
+px; right: 1px; min-width: 24px; width: 1.84615em; border: 0px; padding: 0p=
+x; cursor: pointer; font-size: 0.8125em; direction: ltr; text-indent: -9999=
+9px; white-space: nowrap; overflow: hidden; z-index: 1; }
+  #searchButton { background-image: linear-gradient(transparent, transparen=
+t), url("data:image/svg+xml,%3Csvg xmlns=3D%22http://www.w3.org/2000/svg%22=
+ width=3D%2212%22 height=3D%2213%22%3E %3Cg fill=3D%22none%22 stroke=3D%22%=
+2354595d%22 stroke-width=3D%222%22%3E %3Cpath d=3D%22M11.29 11.71l-4-4%22/%=
+3E %3Ccircle cx=3D%225%22 cy=3D%225%22 r=3D%224%22/%3E %3C/g%3E %3C/svg%3E"=
+); background-position: center center; background-repeat: no-repeat; }
+  #mw-searchButton { z-index: 1; }
+  .vectorTabs { background-position: left bottom; float: left; height: 2.5e=
+m; padding-left: 1px; }
+  .vectorTabs h3 { display: none; }
+  .vectorTabs ul { float: left; height: 100%; list-style: none none; margin=
+: 0px; padding: 0px; }
+  .vectorTabs li { background-image: linear-gradient(to top, rgb(119, 193, =
+246) 0px, rgb(232, 242, 248) 1px, rgb(255, 255, 255) 100%); background-posi=
+tion: left bottom; background-repeat: repeat-x; float: left; display: block=
+; height: 100%; margin: 0px; padding: 0px; line-height: 1.125em; white-spac=
+e: nowrap; }
+  .vectorTabs li a { color: rgb(6, 69, 173); display: block; height: 1.9em;=
+ padding-left: 0.615em; padding-right: 0.615em; cursor: pointer; font-size:=
+ 0.8125em; }
+  .vectorTabs .new a, .vectorTabs .new a:visited { color: rgb(165, 88, 88);=
+ }
+  .vectorTabs .selected { background: rgb(255, 255, 255); }
+  .vectorTabs .selected a, .vectorTabs .selected a:visited { color: rgb(34,=
+ 34, 34); text-decoration: none; }
+  .vectorTabs .icon a { background-position: right bottom; background-repea=
+t: no-repeat; }
+  .vectorTabs span { background-position: right bottom; display: inline-blo=
+ck; height: 100%; }
+  .vectorTabs span a { float: left; display: block; position: relative; pad=
+ding-top: 1.25em; }
+  .vectorMenu { direction: ltr; float: left; cursor: pointer; position: rel=
+ative; line-height: 1.125em; }
+  .vectorMenu h3 span { color: rgb(68, 68, 68); position: relative; display=
+: block; padding-left: 0.615em; padding-top: 1.25em; padding-right: 16px; f=
+ont-size: 0.8125em; font-weight: normal; }
+  .vectorMenu h3 span::after { content: ""; position: absolute; inset: 1.25=
+em 0px 0px; background-image: linear-gradient(transparent, transparent), ur=
+l("data:image/svg+xml,%3Csvg xmlns=3D%22http://www.w3.org/2000/svg%22 width=
+=3D%2212%22 height=3D%2212%22 viewBox=3D%220 0 12 12%22%3E %3Cpath d=3D%22M=
+11.05 3.996l-.965-1.053-4.035 3.86-3.947-3.86L1.05 3.996l5 5 5-5%22 fill=3D=
+%22%23222%22/%3E %3C/svg%3E"); background-position: 100% 50%; background-re=
+peat: no-repeat; opacity: 0.85; }
+  .vectorMenu h3:hover span, .vectorMenu h3:focus span { color: rgb(34, 34,=
+ 34); }
+  .vectorMenu h3:hover span::after, .vectorMenu h3:focus span::after { opac=
+ity: 1; }
+  .vectorMenu .menu { list-style: none none; background-color: rgb(255, 255=
+, 255); clear: both; min-width: 100%; position: absolute; top: 2.5em; left:=
+ -1px; margin: 0px; border-width: 0px 1px 1px; border-style: solid; border-=
+color: rgb(162, 169, 177); border-image: initial; padding: 0px; box-shadow:=
+ rgba(0, 0, 0, 0.1) 0px 1px 1px 0px; text-align: left; opacity: 0; visibili=
+ty: hidden; transition: opacity 100ms ease 0s; z-index: 2; }
+  .vectorMenu:hover .menu { opacity: 1; visibility: visible; }
+  .vectorMenu .vectorMenuCheckbox:checked ~ .menu { opacity: 1; visibility:=
+ visible; }
+  .vectorMenu li { padding: 0px; margin: 0px; text-align: left; line-height=
+: 1em; }
+  .vectorMenu li a { color: rgb(6, 69, 173); display: block; padding: 0.625=
+em; white-space: nowrap; cursor: pointer; font-size: 0.8125em; }
+  .vectorMenu .selected a, .vectorMenu .selected a:visited { color: rgb(34,=
+ 34, 34); text-decoration: none; }
+  #mw-head .vectorMenu h3 { background-position: right bottom; float: left;=
+ font-size: 100%; height: 2.5em; margin: 0px -1px 0px 0px; padding: 0px 0.5=
+em 0px 0px; }
+  .vectorTabs, .vectorTabs span, #mw-head .vectorMenu h3 { background-image=
+: linear-gradient(rgba(167, 215, 249, 0) 0px, rgb(167, 215, 249) 100%); bac=
+kground-repeat: no-repeat; background-size: 1px 100%; }
+  .vectorMenuCheckbox { cursor: pointer; position: absolute; top: 0px; left=
+: 0px; z-index: 1; opacity: 0; width: 100%; height: 100%; margin: 0px; padd=
+ing: 0px; display: none; }
+  :not(:checked) > .vectorMenuCheckbox { display: block; }
+  .vectorMenuCheckbox:checked + h3 span::after { transform: scaleY(-1); }
+  .vectorMenuCheckbox:focus + h3 { outline: -webkit-focus-ring-color auto; =
+}
+  @-webkit-keyframes rotate {=20
+  0% { transform: rotate(0deg); }
+  100% { transform: rotate(360deg); }
+}
+  @keyframes rotate {=20
+  0% { transform: rotate(0deg); }
+  100% { transform: rotate(360deg); }
+}
+  .vectorTabs .mw-watchlink.icon a { margin: 0px; padding: 3.07692em 0px 0p=
+x; display: block; width: 28px; height: 0px; overflow: hidden; background-p=
+osition: 5px 60%; background-repeat: no-repeat; }
+  .vectorTabs #ca-unwatch.icon a { background-image: linear-gradient(transp=
+arent, transparent), url("data:image/svg+xml,%3Csvg xmlns=3D%22http://www.w=
+3.org/2000/svg%22 width=3D%2216%22 height=3D%2216%22 xmlns:xlink=3D%22http:=
+//www.w3.org/1999/xlink%22%3E %3Cdefs%3E %3ClinearGradient id=3D%22a%22%3E =
+%3Cstop offset=3D%220%22 stop-color=3D%22%23c2edff%22/%3E %3Cstop offset=3D=
+%22.5%22 stop-color=3D%22%2368bdff%22/%3E %3Cstop offset=3D%221%22 stop-col=
+or=3D%22%23fff%22/%3E %3C/linearGradient%3E %3ClinearGradient id=3D%22b%22 =
+x1=3D%2213.47%22 x2=3D%224.596%22 y1=3D%2214.363%22 y2=3D%223.397%22 xlink:=
+href=3D%22%23a%22 gradientUnits=3D%22userSpaceOnUse%22/%3E %3C/defs%3E %3Cp=
+ath fill=3D%22url%28%23b%29%22 stroke=3D%22%237cb5d1%22 stroke-width=3D%22.=
+99992%22 d=3D%22M8.103 1.146l2.175 4.408 4.864.707-3.52 3.431.831 4.845-4.3=
+51-2.287-4.351 2.287.831-4.845-3.52-3.431 4.864-.707z%22/%3E %3C/svg%3E"); =
+}
+  .vectorTabs #ca-watch.icon a { background-image: linear-gradient(transpar=
+ent, transparent), url("data:image/svg+xml,%3Csvg xmlns=3D%22http://www.w3.=
+org/2000/svg%22 width=3D%2216%22 height=3D%2216%22%3E %3Cpath fill=3D%22%23=
+fff%22 stroke=3D%22%237cb5d1%22 stroke-width=3D%22.99992%22 d=3D%22M8.103 1=
+.146l2.175 4.408 4.864.707-3.52 3.431.831 4.845-4.351-2.287-4.351 2.287.831=
+-4.845-3.52-3.431 4.864-.707z%22/%3E %3C/svg%3E"); }
+  .vectorTabs #ca-unwatch.icon a:hover, .vectorTabs #ca-unwatch.icon a:focu=
+s { background-image: linear-gradient(transparent, transparent), url("data:=
+image/svg+xml,%3Csvg xmlns=3D%22http://www.w3.org/2000/svg%22 width=3D%2216=
+%22 height=3D%2216%22 xmlns:xlink=3D%22http://www.w3.org/1999/xlink%22%3E %=
+3Cdefs%3E %3ClinearGradient id=3D%22a%22%3E %3Cstop offset=3D%220%22 stop-c=
+olor=3D%22%23c2edff%22/%3E %3Cstop offset=3D%22.5%22 stop-color=3D%22%2368b=
+dff%22/%3E %3Cstop offset=3D%221%22 stop-color=3D%22%23fff%22/%3E %3C/linea=
+rGradient%3E %3ClinearGradient id=3D%22b%22 x1=3D%2213.47%22 x2=3D%224.596%=
+22 y1=3D%2214.363%22 y2=3D%223.397%22 xlink:href=3D%22%23a%22 gradientUnits=
+=3D%22userSpaceOnUse%22/%3E %3C/defs%3E %3Cpath fill=3D%22url%28%23b%29%22 =
+stroke=3D%22%23c8b250%22 stroke-width=3D%22.99992%22 d=3D%22M8.103 1.146l2.=
+175 4.408 4.864.707-3.52 3.431.831 4.845-4.351-2.287-4.351 2.287.831-4.845-=
+3.52-3.431 4.864-.707z%22/%3E %3C/svg%3E"); }
+  .vectorTabs #ca-watch.icon a:hover, .vectorTabs #ca-watch.icon a:focus { =
+background-image: linear-gradient(transparent, transparent), url("data:imag=
+e/svg+xml,%3Csvg xmlns=3D%22http://www.w3.org/2000/svg%22 width=3D%2216%22 =
+height=3D%2216%22%3E %3Cpath fill=3D%22%23fff%22 stroke=3D%22%23c8b250%22 s=
+troke-width=3D%22.99992%22 d=3D%22M8.103 1.146l2.175 4.408 4.864.707-3.52 3=
+.431.831 4.845-4.351-2.287-4.351 2.287.831-4.845-3.52-3.431 4.864-.707z%22/=
+%3E %3C/svg%3E"); }
+  .vectorTabs #ca-unwatch.icon .loading, .vectorTabs #ca-watch.icon .loadin=
+g { background-image: url("/w/skins/Vector/images/watch-icon-loading.svg?a3=
+739"); animation: 700ms linear 0s infinite normal none running rotate; outl=
+ine: 0px; cursor: default; pointer-events: none; background-position: 50% 6=
+0%; transform-origin: 50% 57%; }
+  #mw-navigation h2 { position: absolute; top: -9999px; }
+  .mw-jump-link:not(:focus) { display: block; clip: rect(1px, 1px, 1px, 1px=
+); width: 1px; height: 1px; margin: -1px; border: 0px; padding: 0px; overfl=
+ow: hidden; position: absolute !important; }
+  #mw-page-base { height: 5em; background-position: left bottom; background=
+-color: rgb(251, 251, 251); background-image: linear-gradient(rgb(255, 255,=
+ 255) 50%, rgb(246, 246, 246) 100%); }
+  #mw-head-base { margin-top: -5em; margin-left: 10em; height: 5em; }
+  #mw-head { position: absolute; top: 0px; right: 0px; width: 100%; }
+  #left-navigation { float: left; margin-left: 10em; margin-top: 2.5em; mar=
+gin-bottom: -2.5em; }
+  #right-navigation { float: right; margin-top: 2.5em; }
+  #p-logo { width: 10em; height: 160px; }
+  #p-logo a { display: block; width: 10em; height: 160px; background-repeat=
+: no-repeat; background-position: center center; text-decoration: none; }
+  #mw-panel { position: absolute; top: 0px; width: 10em; left: 0px; font-si=
+ze: inherit; }
+  #mw-panel .portal { margin: 0px 0.6em 0px 0.7em; padding: 0.25em 0px; dir=
+ection: ltr; }
+  #mw-panel .portal h3 { color: rgb(68, 68, 68); font-weight: normal; margi=
+n: 0.5em 0px 0px 0.666667em; padding: 0.25em 0px; cursor: default; border: =
+0px; font-size: 0.75em; }
+  #mw-panel .portal .body { margin-left: 0.5em; padding-top: 0px; backgroun=
+d-image: linear-gradient(to right, transparent 0px, rgb(200, 204, 209) 35%,=
+ rgb(200, 204, 209) 70%, transparent 100%); background-repeat: no-repeat; b=
+ackground-size: 100% 1px; }
+  #mw-panel .portal .body ul { list-style: none none; margin: 0px; padding-=
+top: 0.3em; }
+  #mw-panel .portal .body li { margin: 0px; padding: 0.25em 0px; font-size:=
+ 0.75em; line-height: 1.125em; overflow-wrap: break-word; }
+  #mw-panel .portal .body li a { color: rgb(6, 69, 173); }
+  #mw-panel .portal .body li a:visited { color: rgb(11, 0, 128); }
+  #mw-panel #p-logo + .portal { background-image: none; margin-top: 1em; }
+  #mw-panel #p-logo + .portal h3 { display: none; }
+  #mw-panel #p-logo + .portal .body { background-image: none; margin-left: =
+0.5em; }
+  #footer { margin-left: 10em; margin-top: 0px; padding: 0.75em; direction:=
+ ltr; }
+  #footer ul { list-style: none none; margin: 0px; padding: 0px; }
+  #footer li { color: rgb(34, 34, 34); margin: 0px; padding: 0.5em 0px; fon=
+t-size: 0.7em; }
+  #footer-icons { float: right; }
+  #footer-icons li { float: left; margin-left: 0.5em; line-height: 2; text-=
+align: right; }
+  #footer-info li { line-height: 1.4; }
+  #footer-places li { float: left; margin-right: 1em; line-height: 2; }
+  .mw-parser-output .external { background-position: right center; backgrou=
+nd-repeat: no-repeat; background-image: linear-gradient(transparent, transp=
+arent), url("data:image/svg+xml,%3Csvg xmlns=3D%22http://www.w3.org/2000/sv=
+g%22 width=3D%2212%22 height=3D%2212%22%3E %3Cpath fill=3D%22%23fff%22 stro=
+ke=3D%22%2336c%22 d=3D%22M1.5 4.518h5.982V10.5H1.5z%22/%3E %3Cpath fill=3D%=
+22%2336c%22 d=3D%22M5.765 1H11v5.39L9.427 7.937l-1.31-1.31L5.393 9.35l-2.69=
+-2.688 2.81-2.808L4.2 2.544z%22/%3E %3Cpath fill=3D%22%23fff%22 d=3D%22M9.9=
+95 2.004l.022 4.885L8.2 5.07 5.32 7.95 4.09 6.723l2.882-2.88-1.85-1.852z%22=
+/%3E %3C/svg%3E"); padding-right: 13px; }
+}
+
+@media screen and (min-width: 982px) {
+  .mw-body, #mw-head-base, #left-navigation, #mw-data-after-content, #foote=
+r { margin-left: 11em; }
+  .mw-body { padding: 1.25em 1.5em 1.5em; }
+  #footer { padding: 1.25em; }
+  #mw-panel { padding-left: 0.5em; }
+  #p-search { margin-right: 1em; }
+  #p-personal { right: 1em; }
+}
+
+@media print {
+  .toc, body { padding: 10px; font-family: "Linux Libertine", Georgia, Time=
+s, serif; }
+  .printfooter, #footer, .thumb, table, ol, dl, ul, h3, h4, h5, h6 { font-f=
+amily: sans-serif; }
+  img { font-family: "Linux Libertine", Georgia, Times, serif; }
+  a { border-bottom: 1px solid rgb(170, 170, 170); }
+  .firstHeading { font-size: 25pt; line-height: 28pt; margin-bottom: 20px; =
+padding-bottom: 5px; }
+  .firstHeading, h2 { overflow: hidden; border-bottom: 2px solid rgb(0, 0, =
+0); }
+  h3, h4, h5, h6 { margin: 30px 0px 0px; }
+  h2, h3, h4, h5, h6 { padding: 0px; position: relative; }
+  h2 { font-size: 18pt; line-height: 24pt; margin-bottom: 0.25em; }
+  h3 { font-size: 13pt; line-height: 20pt; }
+  h4, h5, h6 { font-size: 10pt; line-height: 15pt; }
+  p { font-size: 10pt; line-height: 16pt; margin-top: 5px; text-align: just=
+ify; }
+  p::before { content: ""; display: block; width: 120pt; overflow: hidden; =
+}
+  blockquote { border-left: 2px solid rgb(0, 0, 0); padding-left: 20px; }
+  ol, ul { margin: 10px 0px 0px 1.6em; padding: 0px; }
+  ol li, ul li { padding: 2px 0px; font-size: 10pt; }
+  table ol li, table ul li { font-size: inherit; }
+  .toc { break-before: avoid; break-after: avoid; background: none; border:=
+ 0px; display: table; }
+  .toc a { border: 0px; font-weight: normal; }
+  .toc > ul > li { margin-bottom: 4px; font-weight: bold; }
+  .toc ul { margin: 0px; list-style: none; }
+  .toc ul ul { padding-left: 30px; }
+  .toc li.toclevel-1 > a { font-weight: bold; font-size: 10pt; }
+  .mw-jump-link, .toc .tocnumber { display: none; }
+  .printfooter { margin-top: 10px; border-top: 3px solid rgb(0, 0, 0); padd=
+ing-top: 10px; font-size: 10pt; clear: both; }
+  #footer { margin-top: 12px; border-top: 1px solid rgb(238, 238, 238); pad=
+ding-top: 5px; }
+  #footer-info { margin: 0px; padding: 0px; }
+  #footer-info li { color: rgb(153, 153, 153); list-style: none; display: b=
+lock; padding-bottom: 10px; font-size: 10pt; }
+  #footer-info li a { color: rgb(153, 153, 153) !important; }
+  #footer-info-lastmod { color: rgb(0, 0, 0); font-size: 12pt; font-weight:=
+ bold; }
+}
+------MultipartBoundary--6iFc7K0vUw1XyDhdN7li2jYdRDcOcaQjWbCgzrk99x----
+Content-Type: image/png
+Content-Transfer-Encoding: base64
+Content-Location: https://wiki.wurm-unlimited.net/w/resources/assets/wiki.png?d15cf
+
+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
+RK5CYII=
+
+------MultipartBoundary--6iFc7K0vUw1XyDhdN7li2jYdRDcOcaQjWbCgzrk99x----
+Content-Type: image/png
+Content-Transfer-Encoding: base64
+Content-Location: https://wiki.wurm-unlimited.net/w/resources/assets/licenses/cc-by.png
+
+iVBORw0KGgoAAAANSUhEUgAAAFgAAAAfCAMAAABUFvrSAAABblBMVEX///////////8AAABAQEAQ
+EBDf39/Q08/BxcDLzsrGysXO0c3Mz8vIzMfR1ND///9gYGDM0MyAgIBQUFAwMDCvta7v7++/v79w
+cHAoKSjT1tKfn5/Lz8q8wbsNDg23vLYpKSl5fHkbGxvEyMNDREMgICC9wryRk5HJzci5vrjDx8LJ
+zcnM0Mu1urSts6yxt7C4vbeyt7Gssquvr69QUVCTmJO6v7m0ubOwtq+2u7XPz8/S1dEODg7Axb/D
+yMOus63S1dLLz8u7wLo+Pz7FycSEhoS/w76RlJHP08+/xL6vtK7N0c18f3yyuLG5vrm0urPEx8PO
+0s7KzcnHy8fEycS+wr3AxL+zuLLQ1NCEhYS+w77R1NGJjIlwcm+8wLxdXl2eoJ2utK19f3yWmZax
+trDIzMjGysaPj4+fo57AxcC7wLvW1dWChYLN0cy9wr01NjW6v7qrsaqwta8yMzGvsq+ws6/Cx8K8
+wbzN0MzFycXhaneiAAAAA3RSTlMADgqEIABOAAACy0lEQVR4XrWV5Y/jQAzFe+cgQ5GZYZmZmZnh
+mBn/+/Oku1XTbhtdq32K5HyIfnp5Y3scT+BR5HAAlKP58Bk3JchFXtJ1KbQnC0luKbwVLR93f7vt
+6ur7+v9CMnKHMkcFIRcSWWUmEJg5Z8XZnFCYzAwRsvu2q68tsgOQ+za5z4vKaSoCqEhqUdkNyQfc
+JyRvjrinGy3HY4CKxVuD88iVS2w2AVUlllk9t8BltqLDvSMNlgf9AJTPRwH4B1uBw0dJWVcGkEdr
+htdraDSiB3Y+5g4mw/lRDKPO8psJcDIqinHCxGAL8Flhv0S4tOFRKwoi2r+jy4WluZ4yWraC/aAh
+FYB8CP4WYE7gWeS6GLUqjws9syGBy6DlF2uWLOLgfH8PVp0Qbw6eeilmkYt2reTl3VxydS663eue
+rgXHoMYBA7HmYCGkJIAeUy3y0JBQZgXud768ac0CKELUADRSKWgOltdPAQy1TkGARVEuHA5hFlaw
+jwABRaqvBbi4kgIag/A6KcqolNdIpiHF7pEshrvX2gPzSgQ0BAIR1W8Wjfxs5Dy0MPmuZ7vb3V4U
+0jgAWnRBmvGmgy5sj/500MxiRhK4MDYcghsOD8D28EoBAK+qmjlXi/kHAf1VIxjbTbW0W+fgxgHx
+mQNiH4VnLG1gFKTUR9F8pG0P7+7U7gpxE1H4xsMjZD+AS/O57JZQcWUAaLXabv2UWdQ0tlsxufql
+0m7trE15PYtZPDwgvw63Ro/J5LWz6P+aI83YjrS9GpfQzUNLKCvmppZw8MgSagsMGzx7jeSaNcSY
+a5P/AB0IwXApndQueo9BA3xWShvQKRie6SfXdVeT8ud5U0BlPsiLDRjJEntTe5lm2VJzLqiVB6st
+GC55UcneX//LishjDq0dm3B7MHz/EVpfUcYDgXGFFWd/zgPYOLYH32v+4oqXSiWJv7og2M4dP5Ic
+Tx+J+w+Cru2omf6OhAAAAABJRU5ErkJggg==
+
+------MultipartBoundary--6iFc7K0vUw1XyDhdN7li2jYdRDcOcaQjWbCgzrk99x----
+Content-Type: image/png
+Content-Transfer-Encoding: base64
+Content-Location: https://wiki.wurm-unlimited.net/w/resources/assets/poweredby_mediawiki_88x31.png
+
+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
+ShrKwP8D0I6xg1RTxMoAAAAASUVORK5CYII=
+
+------MultipartBoundary--6iFc7K0vUw1XyDhdN7li2jYdRDcOcaQjWbCgzrk99x------
