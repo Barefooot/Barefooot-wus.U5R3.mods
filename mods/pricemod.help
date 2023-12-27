@@ -27,3 +27,12 @@ price4=299,250000
 
 #handMirror	781, 10s
 price5=781,100000
+
+#chestNoDecayLarge	664
+price6=664,250000
+
+#chestNoDecaySmall	665
+price7=665,120000
+
+#nameChangeCert	843 (gold hand mirror)
+price8=843,150000
