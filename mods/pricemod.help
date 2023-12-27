@@ -1,0 +1,29 @@
+##itemN=itemid,price
+##itemN=itemid2,price
+### e.g.
+###price0=601,2500 #shaker orb to 25c
+###price1=299,100000 #trader contract to 10s
+###price2=300,50000 #merchant contract to 5s
+
+#item-id's can be fund here: https://docs.google.com/spreadsheets/d/1XxCk2JVCTj3bblYuaHRZQT2garVo8y3SjcrIZoWBohc/edit#gid=148568124
+# coins rate: https://www.wurmpedia.com/index.php/Bank_of_Wurm
+# mod - https://github.com/Yoplitein/pricemod
+
+
+# rodTransmutation	668, 999g
+price0=668,1000000
+
+# declarationIndependence, 999g
+price1=682,999000000
+
+# sleepPowder	666, 2s
+price2=666,20000
+
+# resurrectionStone	509, 2s
+price3=509,20000
+
+# traderContract	299, 25s
+price4=299,250000
+
+#handMirror	781, 10s
+price5=781,100000
