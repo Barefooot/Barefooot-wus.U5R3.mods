@@ -1,0 +1,126 @@
+[10:53:37 PM] INFO Gmjk: Gmjk created item mission ruler, item template: mission ruler, WurmID: 8431691890946, QL: 99.0, Rarity: 0
+[10:54:20 PM] INFO Gmjk: Gmjk leaves Winkshir.
+[10:54:25 PM] INFO Gmjk: Gmjk enters Winkshir.
+[10:54:45 PM] INFO Gmjk: Player [id: 1308706734336, name: Gmjk]: Listing MISSIONS
+[10:55:10 PM] INFO Gmjk: Player [id: 1308706734336, name: Gmjk]: Edit MISSION with name Altarshock and id 75
+[10:55:10 PM] INFO Gmjk: Player [id: 1308706734336, name: Gmjk]: Viewing mission settings for mission with name: Altarshock
+[10:55:21 PM] INFO Gmjk: Player [id: 1308706734336, name: Gmjk]: Edit TRIGGER with name Altarscocktrigger and id 4
+[10:55:56 PM] INFO Gmjk: Player [id: 1308706734336, name: Gmjk]: Editing mission trigger with trigger name: Altarscocktrigger and description pops monster
+[10:55:56 PM] INFO Gmjk: Player [id: 1308706734336, name: Gmjk]: Edit MISSION with name Altarshock and id 75
+[10:55:56 PM] INFO Gmjk: Player [id: 1308706734336, name: Gmjk]: Viewing mission settings for mission with name: Altarshock
+[10:55:58 PM] INFO Gmjk: Player [id: 1308706734336, name: Gmjk]: Listing MISSIONS
+[11:00:03 PM] INFO Gmjk: Player [id: 1308706734336, name: Gmjk]: Listing MISSIONS
+[11:00:34 PM] INFO Gmjk: Player [id: 1308706734336, name: Gmjk]: Create new MISSION
+[11:01:22 PM] INFO Gmjk: Player [id: 1308706734336, name: Gmjk]: Edit MISSION with name mission-t1 and id 82
+[11:01:22 PM] INFO Gmjk: Player [id: 1308706734336, name: Gmjk]: Viewing mission settings for mission with name: mission-t1
+[11:02:05 PM] INFO Gmjk: Player [id: 1308706734336, name: Gmjk]: Listing MISSIONS
+[11:02:20 PM] INFO Gmjk: Player [id: 1308706734336, name: Gmjk]: Edit MISSION with name mission-t1 and id 82
+[11:02:20 PM] INFO Gmjk: Player [id: 1308706734336, name: Gmjk]: Viewing mission settings for mission with name: mission-t1
+[11:02:23 PM] INFO Gmjk: Player [id: 1308706734336, name: Gmjk]: Create EFFECT
+[11:09:00 PM] INFO Gmjk: Player [id: 1308706734336, name: Gmjk]: Mission Effects List
+[11:09:28 PM] INFO Gmjk: Player [id: 1308706734336, name: Gmjk]: Trigger List
+[11:09:32 PM] INFO Gmjk: Player [id: 1308706734336, name: Gmjk]: Create TRIGGER
+[11:16:12 PM] INFO Gmjk: Player [id: 1308706734336, name: Gmjk]: Edit TRIGGER with name t-l.i.maul-attack-i.f.gate and id 11
+[11:37:03 PM] INFO Gmjk: Gmjk leaves Winkshir.
+[11:37:52 PM] INFO Gmjk: Player [id: 1308706734336, name: Gmjk]: Trigger List
+[11:37:58 PM] INFO Gmjk: Player [id: 1308706734336, name: Gmjk]: Trigger List
+[11:38:03 PM] INFO Gmjk: Player [id: 1308706734336, name: Gmjk]: Create TRIGGER
+[11:43:07 PM] INFO Gmjk: Player [id: 1308706734336, name: Gmjk]: Edit TRIGGER with name t-examine-g.tower and id 11
+[11:43:21 PM] INFO Gmjk: Player [id: 1308706734336, name: Gmjk]: Editing mission trigger with trigger name: t-examine-g.tower and description 
+[11:43:21 PM] INFO Gmjk: Player [id: 1308706734336, name: Gmjk]: Create EFFECT
+[11:47:47 PM] INFO Gmjk: Player [id: 1308706734336, name: Gmjk]: Edit TRIGGER with name t-examine-g.tower and id 11
+[11:48:04 PM] INFO Gmjk: Player [id: 1308706734336, name: Gmjk]: Editing mission trigger with trigger name: t-examine-g.tower and description 
+[11:48:04 PM] INFO Gmjk: Player [id: 1308706734336, name: Gmjk]: Create EFFECT
+[11:50:30 PM] INFO Gmjk: Player [id: 1308706734336, name: Gmjk]: Viewing trigger EFFECT settings for effect with name: me.destroy-tower and description = 
+[11:50:36 PM] INFO Gmjk: Player [id: 1308706734336, name: Gmjk]: Edit TRIGGER with name t-examine-g.tower and id 11
+[11:50:38 PM] INFO Gmjk: Player [id: 1308706734336, name: Gmjk]: Trigger List
+[11:50:48 PM] INFO Gmjk: Player [id: 1308706734336, name: Gmjk]: Mission Effects List
+[11:51:03 PM] INFO Gmjk: Player [id: 1308706734336, name: Gmjk]: Viewing trigger EFFECT settings for effect with name: me.destroy-tower and description = 
+[11:51:06 PM] INFO Gmjk: Player [id: 1308706734336, name: Gmjk]: Mission Effects List
+[11:51:07 PM] INFO Gmjk: Player [id: 1308706734336, name: Gmjk]: Trigger List
+[11:51:14 PM] INFO Gmjk: Player [id: 1308706734336, name: Gmjk]: Mission Effects List
+[11:51:20 PM] INFO Gmjk: Player [id: 1308706734336, name: Gmjk]: Viewing trigger EFFECT settings for effect with name: me.destroy-tower and description = 
+[11:51:23 PM] INFO Gmjk: Player [id: 1308706734336, name: Gmjk]: Mission Effects List
+[11:51:27 PM] INFO Gmjk: Player [id: 1308706734336, name: Gmjk]: Trigger List
+[11:51:31 PM] INFO Gmjk: Player [id: 1308706734336, name: Gmjk]: Mission Effects List
+[11:51:36 PM] INFO Gmjk: Player [id: 1308706734336, name: Gmjk]: Listing MISSIONS
+[11:51:39 PM] INFO Gmjk: Player [id: 1308706734336, name: Gmjk]: Edit MISSION with name mission-t1 and id 82
+[11:51:39 PM] INFO Gmjk: Player [id: 1308706734336, name: Gmjk]: Viewing mission settings for mission with name: mission-t1
+[11:52:17 PM] INFO Gmjk: Player [id: 1308706734336, name: Gmjk]: Create TRIGGER
+[11:52:29 PM] INFO Gmjk: Player [id: 1308706734336, name: Gmjk]: Edit MISSION with name mission-t1 and id 82
+[11:52:29 PM] INFO Gmjk: Player [id: 1308706734336, name: Gmjk]: Viewing mission settings for mission with name: mission-t1
+[11:52:55 PM] INFO Gmjk: Player [id: 1308706734336, name: Gmjk]: Listing MISSIONS
+[11:56:37 PM] INFO Gmjk: Player [id: 1308706734336, name: Gmjk]: Listing MISSIONS
+[11:56:41 PM] INFO Gmjk: Player [id: 1308706734336, name: Gmjk]: Edit MISSION with name mission-t1 and id 82
+[11:56:41 PM] INFO Gmjk: Player [id: 1308706734336, name: Gmjk]: Viewing mission settings for mission with name: mission-t1
+[11:57:06 PM] INFO Gmjk: Player [id: 1308706734336, name: Gmjk]: Edit TRIGGER with name t-examine-g.tower and id 11
+[11:57:12 PM] INFO Gmjk: Player [id: 1308706734336, name: Gmjk]: Edit MISSION with name mission-t1 and id 82
+[11:57:12 PM] INFO Gmjk: Player [id: 1308706734336, name: Gmjk]: Viewing mission settings for mission with name: mission-t1
+[11:57:27 PM] INFO Gmjk: Player [id: 1308706734336, name: Gmjk]: Viewing trigger EFFECT settings for effect with name: me.destroy-tower and description = 
+[11:59:09 PM] INFO Gmjk: Player [id: 1308706734336, name: Gmjk]: Edit MISSION with name mission-t1 and id 82
+[11:59:09 PM] INFO Gmjk: Player [id: 1308706734336, name: Gmjk]: Viewing mission settings for mission with name: mission-t1
+[12:00:00 AM] INFO Gmjk: Player [id: 1308706734336, name: Gmjk]: Listing MISSIONS
+[12:00:09 AM] INFO Gmjk: Player [id: 1308706734336, name: Gmjk]: Edit MISSION with name mission-t1 and id 82
+[12:00:09 AM] INFO Gmjk: Player [id: 1308706734336, name: Gmjk]: Viewing mission settings for mission with name: mission-t1
+[12:00:36 AM] INFO Gmjk: Player [id: 1308706734336, name: Gmjk]: Listing MISSIONS
+[12:00:42 AM] INFO Gmjk: Player [id: 1308706734336, name: Gmjk]: Edit MISSION with name mission-t1 and id 82
+[12:00:42 AM] INFO Gmjk: Player [id: 1308706734336, name: Gmjk]: Viewing mission settings for mission with name: mission-t1
+[12:00:57 AM] INFO Gmjk: Player [id: 1308706734336, name: Gmjk]: Viewing trigger EFFECT settings for effect with name: me.destroy-tower and description = 
+[12:01:01 AM] INFO Gmjk: Player [id: 1308706734336, name: Gmjk]: Edit MISSION with name mission-t1 and id 82
+[12:01:01 AM] INFO Gmjk: Player [id: 1308706734336, name: Gmjk]: Viewing mission settings for mission with name: mission-t1
+[12:01:03 AM] INFO Gmjk: Player [id: 1308706734336, name: Gmjk]: Listing MISSIONS
+[12:01:48 AM] INFO Gmjk: Player [id: 1308706734336, name: Gmjk]: Trigger List
+[12:01:50 AM] INFO Gmjk: Player [id: 1308706734336, name: Gmjk]: Edit TRIGGER with name t-examine-g.tower and id 11
+[12:02:34 AM] INFO Gmjk: Player [id: 1308706734336, name: Gmjk]: Editing mission trigger with trigger name: t-examine-g.tower and description 
+[12:02:34 AM] INFO Gmjk: Player [id: 1308706734336, name: Gmjk]: Trigger List
+[12:02:38 AM] INFO Gmjk: Player [id: 1308706734336, name: Gmjk]: Edit TRIGGER with name t-examine-g.tower and id 11
+[12:03:01 AM] INFO Gmjk: Player [id: 1308706734336, name: Gmjk]: Trigger List
+[12:03:13 AM] INFO Gmjk: Player [id: 1308706734336, name: Gmjk]: Listing MISSIONS
+[12:03:15 AM] INFO Gmjk: Player [id: 1308706734336, name: Gmjk]: Edit MISSION with name mission-t1 and id 82
+[12:03:15 AM] INFO Gmjk: Player [id: 1308706734336, name: Gmjk]: Viewing mission settings for mission with name: mission-t1
+[12:03:44 AM] INFO Gmjk: Player [id: 1308706734336, name: Gmjk]: Viewing trigger EFFECT settings for effect with name: me.destroy-tower and description = 
+[12:06:08 AM] INFO Gmjk: Player [id: 1308706734336, name: Gmjk]: Edit MISSION with name mission-t1 and id 82
+[12:06:08 AM] INFO Gmjk: Player [id: 1308706734336, name: Gmjk]: Viewing mission settings for mission with name: mission-t1
+[12:07:01 AM] INFO Gmjk: Player [id: 1308706734336, name: Gmjk]: Trigger List
+[12:07:03 AM] INFO Gmjk: Player [id: 1308706734336, name: Gmjk]: Edit TRIGGER with name t-examine-g.tower and id 11
+[12:11:24 AM] INFO Gmjk: Player [id: 1308706734336, name: Gmjk]: Editing mission trigger with trigger name: t-examine-g.tower and description 
+[12:11:24 AM] INFO Gmjk: Player [id: 1308706734336, name: Gmjk]: Edit TRIGGER with name t-examine-g.tower and id 11
+[12:11:30 AM] INFO Gmjk: Player [id: 1308706734336, name: Gmjk]: Trigger List
+[12:11:57 AM] INFO Gmjk: Player [id: 1308706734336, name: Gmjk]: Listing MISSIONS
+[12:12:02 AM] INFO Gmjk: Player [id: 1308706734336, name: Gmjk]: Edit MISSION with name mission-t1 and id 82
+[12:12:02 AM] INFO Gmjk: Player [id: 1308706734336, name: Gmjk]: Viewing mission settings for mission with name: mission-t1
+[12:12:21 AM] INFO Gmjk: Player [id: 1308706734336, name: Gmjk]: Listing MISSIONS
+[12:12:25 AM] INFO Gmjk: Player [id: 1308706734336, name: Gmjk]: Trigger List
+[12:13:06 AM] INFO Gmjk: Gmjk created item guard tower, item template: guard tower, WurmID: 8431792554242, QL: 55.0, Rarity: 0
+[12:13:22 AM] INFO Gmjk: Gmjk destroyed Item [ID: 8431792554242, Name: guard tower, Template: guard tower, QL: 55.0, Rarity: 0, Tile: 1758,927]
+[12:13:39 AM] INFO Gmjk: Gmjk created item guard tower, item template: guard tower, WurmID: 8431826108674, QL: 1.0, Rarity: 0
+[12:13:51 AM] INFO Gmjk: Gmjk destroyed Item [ID: 8431826108674, Name: guard tower, Template: guard tower, QL: 1.0, Rarity: 0, Tile: 1758,927]
+[12:14:18 AM] INFO Gmjk: Gmjk created item guard tower, item template: guard tower, WurmID: 8431842885890, QL: 1.0, Rarity: 0
+[12:14:47 AM] INFO Gmjk: Player [id: 1308706734336, name: Gmjk]: Trigger List
+[12:15:04 AM] INFO Gmjk: Player [id: 1308706734336, name: Gmjk]: Trigger List
+[12:15:07 AM] INFO Gmjk: Player [id: 1308706734336, name: Gmjk]: Create TRIGGER
+[12:16:13 AM] INFO Gmjk: Player [id: 1308706734336, name: Gmjk]: Edit TRIGGER with name trg.examine and id 11
+[12:16:19 AM] INFO Gmjk: Player [id: 1308706734336, name: Gmjk]: Editing mission trigger with trigger name: trg.examine and description 
+[12:16:19 AM] INFO Gmjk: Player [id: 1308706734336, name: Gmjk]: Create EFFECT
+[12:18:36 AM] INFO Gmjk: Player [id: 1308706734336, name: Gmjk]: Viewing trigger EFFECT settings for effect with name: me.destroy-tower and description = Description (max 400 chars)
+[12:19:51 AM] INFO Gmjk: Player [id: 1308706734336, name: Gmjk]: Create TRIGGER
+[12:19:54 AM] INFO Gmjk: Player [id: 1308706734336, name: Gmjk]: Viewing trigger EFFECT settings for effect with name: me.destroy-tower and description = Description (max 400 chars)
+[12:20:16 AM] INFO Gmjk: Player [id: 1308706734336, name: Gmjk]: Edit TRIGGER with name trg.examine and id 11
+[12:20:55 AM] INFO Gmjk: Player [id: 1308706734336, name: Gmjk]: Editing mission trigger with trigger name: trg.examine and description 
+[12:20:55 AM] INFO Gmjk: Player [id: 1308706734336, name: Gmjk]: Trigger List
+[12:20:58 AM] INFO Gmjk: Player [id: 1308706734336, name: Gmjk]: Create TRIGGER
+[12:21:01 AM] INFO Gmjk: Player [id: 1308706734336, name: Gmjk]: Trigger List
+[12:21:04 AM] INFO Gmjk: Player [id: 1308706734336, name: Gmjk]: Edit TRIGGER with name trg.examine and id 11
+[12:21:09 AM] INFO Gmjk: Player [id: 1308706734336, name: Gmjk]: Editing mission trigger with trigger name: trg.examine and description 
+[12:21:09 AM] INFO Gmjk: Player [id: 1308706734336, name: Gmjk]: Edit TRIGGER with name trg.examine and id 11
+[12:21:16 AM] INFO Gmjk: Player [id: 1308706734336, name: Gmjk]: Editing mission trigger with trigger name: trg.examine and description 
+[12:21:16 AM] INFO Gmjk: Player [id: 1308706734336, name: Gmjk]: Viewing trigger EFFECT settings for effect with name: me.destroy-tower and description = Description (max 400 chars)
+[12:21:32 AM] INFO Gmjk: Player [id: 1308706734336, name: Gmjk]: Edit TRIGGER with name trg.examine and id 11
+[12:21:33 AM] INFO Gmjk: Player [id: 1308706734336, name: Gmjk]: Trigger List
+[12:21:56 AM] INFO Gmjk: Player [id: 1308706734336, name: Gmjk]: Listing MISSIONS
+[12:21:59 AM] INFO Gmjk: Player [id: 1308706734336, name: Gmjk]: Edit MISSION with name mission-t1 and id 82
+[12:21:59 AM] INFO Gmjk: Player [id: 1308706734336, name: Gmjk]: Viewing mission settings for mission with name: mission-t1
+[12:22:36 AM] INFO Gmjk: Player [id: 1308706734336, name: Gmjk]: Listing MISSIONS
+[12:22:39 AM] INFO Gmjk: Player [id: 1308706734336, name: Gmjk]: Edit MISSION with name mission-t1 and id 82
+[12:22:39 AM] INFO Gmjk: Player [id: 1308706734336, name: Gmjk]: Viewing mission settings for mission with name: mission-t1
+[12:23:03 AM] INFO Gmjk: Player [id: 1308706734336, name: Gmjk]: Listing MISSIONS
