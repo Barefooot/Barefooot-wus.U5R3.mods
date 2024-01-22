@@ -34,3 +34,4 @@
 /WurmServerLauncher.exe
 /server.log
 /mods/logs/StarterGear.log.*
+/mods/DiscordRelay.config
