@@ -1,0 +1,33 @@
+[01:20:51 PM] INFO Gmjk: Gmjk created item altar, item template: altar, WurmID: 9341503537410, QL: 55.0, Rarity: 0
+[01:21:41 PM] INFO Gmjk: Gmjk now has deity Libila, faith 66.0, and favour: 66.
+[01:22:19 PM] INFO Gmjk: Gmjk created item statuette of Libila, item template: statuette of Libila, WurmID: 9341520314626, QL: 66.0, Rarity: 0
+[01:24:53 PM] INFO Gmjk: Gmjk now has deity Libila, faith 66.0, and favour: 66.
+[01:28:16 PM] INFO Gmjk: Gmjk created item guard tower, item template: guard tower, WurmID: 9341587423490, QL: 55.0, Rarity: 0
+[01:28:53 PM] INFO Gmjk: Tried to set kingdom of Gmjk to Horde of the Summoned but it was not allowed.
+[01:39:14 PM] INFO Gmjk: Gmjk created item obelisk, item template: obelisk, WurmID: 9341654532354, QL: 55.0, Rarity: 0
+[01:39:34 PM] INFO Gmjk: Gmjk created item obelisk, item template: obelisk, WurmID: 9341688086786, QL: 66.0, Rarity: 0
+[01:43:25 PM] INFO Gmjk: Gmjk created item rock shards, item template: rock shards, WurmID: 9341704864002, QL: 50.0, Rarity: 0
+[01:44:02 PM] INFO Gmjk: Gmjk created item potion, item template: potion, WurmID: 9341721641218, QL: 50.0, Rarity: 0
+[01:44:02 PM] INFO Gmjk: Gmjk created item potion, item template: potion, WurmID: 9341738418434, QL: 50.0, Rarity: 0
+[01:44:02 PM] INFO Gmjk: Gmjk created item potion, item template: potion, WurmID: 9341755195650, QL: 50.0, Rarity: 0
+[01:44:02 PM] INFO Gmjk: Gmjk created item potion, item template: potion, WurmID: 9341771972866, QL: 50.0, Rarity: 0
+[01:44:02 PM] INFO Gmjk: Gmjk created item potion, item template: potion, WurmID: 9341788750082, QL: 50.0, Rarity: 0
+[01:44:02 PM] INFO Gmjk: Gmjk created item potion, item template: potion, WurmID: 9341805527298, QL: 50.0, Rarity: 0
+[01:44:02 PM] INFO Gmjk: Gmjk created item potion, item template: potion, WurmID: 9341822304514, QL: 50.0, Rarity: 0
+[01:44:02 PM] INFO Gmjk: Gmjk created item potion, item template: potion, WurmID: 9341839081730, QL: 50.0, Rarity: 0
+[01:44:02 PM] INFO Gmjk: Gmjk created item potion, item template: potion, WurmID: 9341855858946, QL: 50.0, Rarity: 0
+[01:44:02 PM] INFO Gmjk: Gmjk created item potion, item template: potion, WurmID: 9341872636162, QL: 50.0, Rarity: 0
+[01:44:02 PM] INFO Gmjk: Gmjk created item potion, item template: potion, WurmID: 9341889413378, QL: 50.0, Rarity: 0
+[01:44:45 PM] INFO Gmjk: Gmjk created item wood scrap, item template: wood scrap, WurmID: 9341906190594, QL: 11.0, Rarity: 0
+[01:45:36 PM] INFO Gmjk: Gmjk created item hatchet, item template: hatchet, WurmID: 9341939745026, QL: 55.0, Rarity: 0
+[01:48:06 PM] INFO Gmjk: Gmjk created item potion of woodcutting, item template: potion of woodcutting, WurmID: 9342057185538, QL: 11.0, Rarity: 0
+[01:48:41 PM] INFO Gmjk: Gmjk destroyed Item [ID: 9341805527298, Name: potion, Template: potion, QL: 50.0, Rarity: 0, Tile: 1634,531]
+[01:48:41 PM] INFO Gmjk: Gmjk destroyed Item [ID: 9341822304514, Name: potion, Template: potion, QL: 50.0, Rarity: 0, Tile: 1634,531]
+[01:48:41 PM] INFO Gmjk: Gmjk destroyed Item [ID: 9341839081730, Name: potion, Template: potion, QL: 50.0, Rarity: 0, Tile: 1634,531]
+[01:48:51 PM] INFO Gmjk: Gmjk destroyed Item [ID: 9341704864002, Name: rock shards, Template: rock shards, QL: 50.0, Rarity: 0, Tile: 1634,531]
+[01:49:06 PM] INFO Gmjk: Gmjk destroyed Item [ID: 9341973299458, Name: log, Template: log, QL: 3.5124128, Rarity: 0, Tile: 1634,532]
+[01:49:52 PM] INFO Gmjk: Gmjk created item great helm, item template: great helm, WurmID: 9342073962754, QL: 22.0, Rarity: 0
+[01:50:22 PM] INFO Gmjk: Gmjk created item black wolf rug, item template: black wolf rug, WurmID: 9342090739970, QL: 55.0, Rarity: 0
+[01:54:11 PM] INFO Gmjk: Gmjk created item scroll of binding, item template: scroll of binding, WurmID: 9342157848834, QL: 55.0, Rarity: 0
+[01:56:14 PM] INFO Gmjk:  setting trait 0 Jenn-Kellon tower guard, 132276436336897
+[01:58:26 PM] INFO Gmjk: Gmjk destroyed Item [ID: 9342157848834, Name: scroll of binding, Template: scroll of binding, QL: 55.0, Rarity: 0, Tile: 1640,527]
