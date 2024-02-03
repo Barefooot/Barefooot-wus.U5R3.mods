@@ -1,5 +1,5 @@
 /.dev/.mods.all.properties/*
-/.dev/.mods.latest/*
+## /.dev/.mods.latest/*
 /.dev/.tools/map.WGenerator/maps/britannia22/*
 /.dev/.tools/map.WGenerator/maps/oldGV-u.zip
 /.dev/.tools/SQLiteStudio/*
@@ -35,3 +35,4 @@
 /server.log
 /mods/logs/StarterGear.log.*
 /mods/DiscordRelay.config
+/.dev/2021-Ozilion Mods/*
