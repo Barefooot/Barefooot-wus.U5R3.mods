@@ -1,0 +1,2 @@
+2024/02/09 22:08:58 Cret6 Type is 2, Location is 1422, 947, Height is 18, Steepness is 5
+2024/02/09 22:08:58 S4 Type is 2, Location is 1300, 412, Height is 13, Steepness is 10
