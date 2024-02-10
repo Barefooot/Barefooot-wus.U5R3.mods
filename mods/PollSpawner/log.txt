@@ -3,3 +3,5 @@
 2024/02/10 20:22:53 P2 Type is 2, Location is 1736, 811, Height is 13, Steepness is 8
 2024/02/10 20:22:53 S1 Type is 2, Location is 1789, 1046, Height is 37, Steepness is 17
 2024/02/10 21:20:13 Cret5 Type is 2, Location is 559, 927, Height is 1209, Steepness is 15
+2024/02/10 23:05:40 Cret5 Type is 2, Location is 1067, 1100, Height is 53, Steepness is 15
+2024/02/10 23:05:40 C2 Type is 107, Location is 999, 1000, Height is 37, Steepness is 10
