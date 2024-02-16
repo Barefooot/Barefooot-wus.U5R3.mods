@@ -24,3 +24,7 @@
 2024/02/16 08:05:49 P3 Type is 109, Location is 728, 1714, Height is 15, Steepness is 3
 2024/02/16 08:05:49 S4 Type is 106, Location is 1284, 687, Height is 99, Steepness is 6
 2024/02/16 08:16:32 P4 Type is 2, Location is 1111, 609, Height is 24, Steepness is 3
+2024/02/16 08:18:18 C2 Type is 2, Location is 504, 1507, Height is 108, Steepness is 4
+2024/02/16 08:49:08 P1 Type is 2, Location is 630, 1006, Height is 33, Steepness is 16
+2024/02/16 08:49:08 S1 Type is 108, Location is 1237, 818, Height is 910, Steepness is 10
+2024/02/16 08:49:08 S3 Type is 101, Location is 1034, 869, Height is 18, Steepness is 8
