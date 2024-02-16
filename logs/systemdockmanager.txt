@@ -1,0 +1,4 @@
+
+
+[2024-02-15 20:48:17] Client version: no bootstrapper found
+[2024-02-15 20:48:17] Initialized system dock manager: default
