@@ -38,3 +38,5 @@
 2024/02/16 16:51:40 C1 Type is 2, Location is 1168, 1228, Height is 391, Steepness is 9
 2024/02/16 16:51:40 C3 Type is 2, Location is 1432, 1113, Height is 797, Steepness is 15
 2024/02/16 20:49:29 S4 Type is 2, Location is 350, 1147, Height is 13, Steepness is 3
+2024/02/17 22:56:34 Cret4 Type is 2, Location is 693, 1826, Height is 103, Steepness is 2
+2024/02/17 22:56:34 Cret6 Type is 2, Location is 404, 1169, Height is 21, Steepness is 6
