@@ -23,7 +23,7 @@
 
 #serverPort: Set a fixed port
 #By default a random free port will be used. Set this to a fixed free port to allow creating firewall rules
-serverPort=13725
+serverPort=12345
 
 
 #publicServerAddress: Set the announced server name or address for download links
@@ -34,7 +34,7 @@ serverPort=13725
 #publicServerAddress: Set the announced server name or address for download links
 #By default the setting "External Server IP Address" will be used for pack URLs. 
 #The external address may not be reachable from clients if the server runs behind a firewall or port forwarding is used. This setting may be required when doing port forwarding in the router
-publicServerAddress=31.187.78.184
+publicServerAddress=127.0.0.1
 
 
 #publicServerPort: Set the announced server port for download links
@@ -46,7 +46,7 @@ publicServerAddress=31.187.78.184
 #By default the serverPort or the automaticly choosen port will be used. 
 #The port selected in serverPort may not be reachable when the server runs behind a firewall or when using port forwarding. 
 #This setting may be required when doing port forwarding in the router
-publicServerPort=13725
+publicServerPort=12345
 
 
 # Sets a different address for the HTTP server to bind to. Can be 0.0.0.0 to
@@ -54,7 +54,7 @@ publicServerPort=13725
 
 #internalServerAddress: Bind the HTTP server to a specific interface (default unset)
 #Can be 0.0.0.0 to bind to all interfaces. Default is external ip in server settings.
-#internalServerAddress=10.100.102.3
+#internalServerAddress=0.0.0.0
 ## same as publicServerAddress
 
 
