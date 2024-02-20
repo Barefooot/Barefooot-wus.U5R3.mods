@@ -44,3 +44,5 @@
 2024/02/18 22:20:39 P2 Type is 2, Location is 1158, 601, Height is 282, Steepness is 17
 2024/02/18 22:23:26 Cret3 Type is 2, Location is 385, 294, Height is 42, Steepness is 7
 2024/02/18 22:23:26 Cret7 Type is 2, Location is 1444, 1131, Height is 600, Steepness is 14
+2024/02/19 22:10:51 Cret1 Type is 2, Location is 1099, 1145, Height is 19, Steepness is 8
+2024/02/19 22:10:51 P3 Type is 2, Location is 1629, 1831, Height is 16, Steepness is 14
