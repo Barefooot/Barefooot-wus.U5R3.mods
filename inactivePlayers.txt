@@ -1,4 +1,4 @@
 playername          	total days played   	total days offline  	deedname            
-Ceyer               	0                   	3041                	Hearth              
-Zampooklidin        	0                   	3048                	Litocania           
-Brightberry         	0                   	3049                	Winkshir            
+Ceyer               	0                   	3042                	Hearth              
+Zampooklidin        	0                   	3049                	Litocania           
+Brightberry         	0                   	3050                	Winkshir            
